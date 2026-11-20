@@ -1,0 +1,70 @@
+{
+  "collected_at": "2026-11-20T19:52:43.754276+00:00",
+  "version": "0.2",
+  "sources": {
+    "binance": {
+      "ok": false,
+      "error": "451 Client Error:  for url: https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=4h&limit=3"
+    },
+    "coinbase": {
+      "ok": false,
+      "error": "400 Client Error: Bad Request for url: https://api.exchange.coinbase.com/products/BTC-USD/candles?granularity=14400"
+    },
+    "fred": {
+      "ok": true,
+      "result": {
+        "status": "skipped",
+        "reason": "FRED_API_KEY not configured"
+      }
+    },
+    "kote_charts": {
+      "ok": true,
+      "result": {
+        "mvrv": {
+          "ok": true,
+          "sha256": "a64a7660f0043b21f971f02e465ed426824fa7e06dda20ef2244ee5e81744b66"
+        },
+        "sopr": {
+          "ok": true,
+          "sha256": "b5559d59bc82cc184eb5cb1a1f7fe8878aa2b24592e42f69cd7507c805d8cf00"
+        },
+        "sth-lth-sopr": {
+          "ok": true,
+          "sha256": "1d4383dc981645bd0b0971e63a429fb3731fe9e79a47c2d9c06449e3222db2e3"
+        },
+        "nupl": {
+          "ok": true,
+          "sha256": "fee7f4f3a31c929fa92bfc437615f0dc6bc99faf4840df1791531dff0503c9b4"
+        },
+        "exchange-netflow": {
+          "ok": true,
+          "sha256": "ad666aede027204eb7f99c7d6289871c8b357254b031c891936d96f0a90e8d0e"
+        },
+        "exchange-reserve": {
+          "ok": true,
+          "sha256": "1a54f302751f67338910cdb0f6403c7891c6e578300f474db8939a4ac938cfcf"
+        },
+        "fund-flows": {
+          "ok": true,
+          "sha256": "3c145a81845b88cf944e415f7e09a2a8d610b49d86213222120445ad8ccd8c29"
+        },
+        "etf-flows": {
+          "ok": true,
+          "sha256": "07c4cf6fde7a41bfcfabb5035bc28bf487a2063f58c18660008e5c8a50a10e3c"
+        },
+        "etf-market-cap": {
+          "ok": true,
+          "sha256": "493c8cf054262c88f90f47cb13491b9c1e8b0b61795961a3dab528f90a294f09"
+        },
+        "etf-flows-vs-new-supply": {
+          "ok": true,
+          "sha256": "eff26b0ec504355dbe6207ac6c22aabfab249d3153be1dbf2828b415794a7dbc"
+        },
+        "dxy-vs-btc": {
+          "ok": true,
+          "sha256": "b348b55484b256e34e13f6c6618d36f7d3692dd1b6f3392a1a53efa517042497"
+        }
+      }
+    }
+  }
+}

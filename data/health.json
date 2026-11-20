@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-11-20T19:52:53.383225+00:00",
+  "version": "0.2",
+  "sources": {
+    "binance": {
+      "ok": false
+    },
+    "coinbase": {
+      "ok": false
+    },
+    "fred": {
+      "ok": true
+    },
+    "kote_charts": {
+      "ok": true
+    }
+  }
+}

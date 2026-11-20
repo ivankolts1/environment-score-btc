@@ -1,0 +1,3621 @@
+{
+  "success": true,
+  "data": {
+    "asOf": "2026-11-19",
+    "note": null,
+    "chart": "etf-market-cap",
+    "range": {
+      "from": null,
+      "to": null
+    },
+    "series": [
+      {
+        "t": "2024-01-11",
+        "netFlowBtc": 14047.3,
+        "cumulativeHeldBtc": 633267.3
+      },
+      {
+        "t": "2024-01-12",
+        "netFlowBtc": 4379.2,
+        "cumulativeHeldBtc": 637646.5
+      },
+      {
+        "t": "2024-01-16",
+        "netFlowBtc": -1240.1,
+        "cumulativeHeldBtc": 636406.4
+      },
+      {
+        "t": "2024-01-17",
+        "netFlowBtc": 10521.1,
+        "cumulativeHeldBtc": 646927.5
+      },
+      {
+        "t": "2024-01-18",
+        "netFlowBtc": -2961.9,
+        "cumulativeHeldBtc": 643965.6
+      },
+      {
+        "t": "2024-01-19",
+        "netFlowBtc": 1056.6,
+        "cumulativeHeldBtc": 645022.2
+      },
+      {
+        "t": "2024-01-22",
+        "netFlowBtc": -2103.1,
+        "cumulativeHeldBtc": 642919.1
+      },
+      {
+        "t": "2024-01-23",
+        "netFlowBtc": -2685.7,
+        "cumulativeHeldBtc": 640233.4
+      },
+      {
+        "t": "2024-01-24",
+        "netFlowBtc": -3971.8,
+        "cumulativeHeldBtc": 636261.6
+      },
+      {
+        "t": "2024-01-25",
+        "netFlowBtc": -1991.6,
+        "cumulativeHeldBtc": 634270
+      },
+      {
+        "t": "2024-01-26",
+        "netFlowBtc": 370.7,
+        "cumulativeHeldBtc": 634640.7
+      },
+      {
+        "t": "2024-01-29",
+        "netFlowBtc": 6081.3,
+        "cumulativeHeldBtc": 640722
+      },
+      {
+        "t": "2024-01-30",
+        "netFlowBtc": 5710,
+        "cumulativeHeldBtc": 646432
+      },
+      {
+        "t": "2024-01-31",
+        "netFlowBtc": 4602.9,
+        "cumulativeHeldBtc": 651034.9
+      },
+      {
+        "t": "2024-02-01",
+        "netFlowBtc": 904.7,
+        "cumulativeHeldBtc": 651939.6
+      },
+      {
+        "t": "2024-02-02",
+        "netFlowBtc": 1857.8,
+        "cumulativeHeldBtc": 653797.4
+      },
+      {
+        "t": "2024-02-05",
+        "netFlowBtc": 1599.5,
+        "cumulativeHeldBtc": 655396.9
+      },
+      {
+        "t": "2024-02-06",
+        "netFlowBtc": 787.7,
+        "cumulativeHeldBtc": 656184.6
+      },
+      {
+        "t": "2024-02-07",
+        "netFlowBtc": 3389,
+        "cumulativeHeldBtc": 659573.6
+      },
+      {
+        "t": "2024-02-08",
+        "netFlowBtc": 9138.3,
+        "cumulativeHeldBtc": 668711.9
+      },
+      {
+        "t": "2024-02-09",
+        "netFlowBtc": 11950.4,
+        "cumulativeHeldBtc": 680662.3
+      },
+      {
+        "t": "2024-02-12",
+        "netFlowBtc": 10214.9,
+        "cumulativeHeldBtc": 690877.2
+      },
+      {
+        "t": "2024-02-13",
+        "netFlowBtc": 12636.5,
+        "cumulativeHeldBtc": 703513.7
+      },
+      {
+        "t": "2024-02-14",
+        "netFlowBtc": 6829.6,
+        "cumulativeHeldBtc": 710343.3
+      },
+      {
+        "t": "2024-02-15",
+        "netFlowBtc": 9212.3,
+        "cumulativeHeldBtc": 719555.6
+      },
+      {
+        "t": "2024-02-16",
+        "netFlowBtc": 6387.4,
+        "cumulativeHeldBtc": 725943
+      },
+      {
+        "t": "2024-02-20",
+        "netFlowBtc": 2612.9,
+        "cumulativeHeldBtc": 728555.9
+      },
+      {
+        "t": "2024-02-21",
+        "netFlowBtc": -681.1,
+        "cumulativeHeldBtc": 727874.8
+      },
+      {
+        "t": "2024-02-22",
+        "netFlowBtc": 4847.4,
+        "cumulativeHeldBtc": 732722.2
+      },
+      {
+        "t": "2024-02-23",
+        "netFlowBtc": 4531.9,
+        "cumulativeHeldBtc": 737254.1
+      },
+      {
+        "t": "2024-02-26",
+        "netFlowBtc": 10050.7,
+        "cumulativeHeldBtc": 747304.8
+      },
+      {
+        "t": "2024-02-27",
+        "netFlowBtc": 10579.6,
+        "cumulativeHeldBtc": 757884.4
+      },
+      {
+        "t": "2024-02-28",
+        "netFlowBtc": 11798.5,
+        "cumulativeHeldBtc": 769682.9
+      },
+      {
+        "t": "2024-02-29",
+        "netFlowBtc": 1476.8,
+        "cumulativeHeldBtc": 771159.7
+      },
+      {
+        "t": "2024-03-01",
+        "netFlowBtc": -2282.1,
+        "cumulativeHeldBtc": 768877.6
+      },
+      {
+        "t": "2024-03-04",
+        "netFlowBtc": 8907.9,
+        "cumulativeHeldBtc": 777785.5
+      },
+      {
+        "t": "2024-03-05",
+        "netFlowBtc": 9481.2,
+        "cumulativeHeldBtc": 787266.7
+      },
+      {
+        "t": "2024-03-06",
+        "netFlowBtc": 5203.9,
+        "cumulativeHeldBtc": 792470.6
+      },
+      {
+        "t": "2024-03-07",
+        "netFlowBtc": 7148,
+        "cumulativeHeldBtc": 799618.6
+      },
+      {
+        "t": "2024-03-08",
+        "netFlowBtc": 3330,
+        "cumulativeHeldBtc": 802948.6
+      },
+      {
+        "t": "2024-03-11",
+        "netFlowBtc": 7321.8,
+        "cumulativeHeldBtc": 810270.4
+      },
+      {
+        "t": "2024-03-12",
+        "netFlowBtc": 14489.5,
+        "cumulativeHeldBtc": 824759.9
+      },
+      {
+        "t": "2024-03-13",
+        "netFlowBtc": 9563.7,
+        "cumulativeHeldBtc": 834323.6
+      },
+      {
+        "t": "2024-03-14",
+        "netFlowBtc": 1815.5,
+        "cumulativeHeldBtc": 836139.1
+      },
+      {
+        "t": "2024-03-15",
+        "netFlowBtc": 2784.5,
+        "cumulativeHeldBtc": 838923.6
+      },
+      {
+        "t": "2024-03-18",
+        "netFlowBtc": -2257.2,
+        "cumulativeHeldBtc": 836666.4
+      },
+      {
+        "t": "2024-03-19",
+        "netFlowBtc": -4825.4,
+        "cumulativeHeldBtc": 831841
+      },
+      {
+        "t": "2024-03-20",
+        "netFlowBtc": -4223.2,
+        "cumulativeHeldBtc": 827617.8
+      },
+      {
+        "t": "2024-03-21",
+        "netFlowBtc": -1383.8,
+        "cumulativeHeldBtc": 826234
+      },
+      {
+        "t": "2024-03-22",
+        "netFlowBtc": -787.9,
+        "cumulativeHeldBtc": 825446.1
+      },
+      {
+        "t": "2024-03-25",
+        "netFlowBtc": 233.5,
+        "cumulativeHeldBtc": 825679.6
+      },
+      {
+        "t": "2024-03-26",
+        "netFlowBtc": 5974.6,
+        "cumulativeHeldBtc": 831654.2
+      },
+      {
+        "t": "2024-03-27",
+        "netFlowBtc": 3479,
+        "cumulativeHeldBtc": 835133.2
+      },
+      {
+        "t": "2024-03-28",
+        "netFlowBtc": 2632.2,
+        "cumulativeHeldBtc": 837765.4
+      },
+      {
+        "t": "2024-04-01",
+        "netFlowBtc": -1201.4,
+        "cumulativeHeldBtc": 836564
+      },
+      {
+        "t": "2024-04-02",
+        "netFlowBtc": 578.2,
+        "cumulativeHeldBtc": 837142.2
+      },
+      {
+        "t": "2024-04-03",
+        "netFlowBtc": 1734.2,
+        "cumulativeHeldBtc": 838876.4
+      },
+      {
+        "t": "2024-04-04",
+        "netFlowBtc": 3234.1,
+        "cumulativeHeldBtc": 842110.5
+      },
+      {
+        "t": "2024-04-05",
+        "netFlowBtc": 2962.4,
+        "cumulativeHeldBtc": 845072.9
+      },
+      {
+        "t": "2024-04-08",
+        "netFlowBtc": -3226,
+        "cumulativeHeldBtc": 841846.9
+      },
+      {
+        "t": "2024-04-09",
+        "netFlowBtc": -259.6,
+        "cumulativeHeldBtc": 841587.3
+      },
+      {
+        "t": "2024-04-10",
+        "netFlowBtc": 1789.1,
+        "cumulativeHeldBtc": 843376.4
+      },
+      {
+        "t": "2024-04-11",
+        "netFlowBtc": 1293.9,
+        "cumulativeHeldBtc": 844670.3
+      },
+      {
+        "t": "2024-04-12",
+        "netFlowBtc": -786.7,
+        "cumulativeHeldBtc": 843883.6
+      },
+      {
+        "t": "2024-04-15",
+        "netFlowBtc": -558.3,
+        "cumulativeHeldBtc": 843325.3
+      },
+      {
+        "t": "2024-04-16",
+        "netFlowBtc": -914.3,
+        "cumulativeHeldBtc": 842411
+      },
+      {
+        "t": "2024-04-17",
+        "netFlowBtc": -2585.4,
+        "cumulativeHeldBtc": 839825.6
+      },
+      {
+        "t": "2024-04-18",
+        "netFlowBtc": -70.2,
+        "cumulativeHeldBtc": 839755.4
+      },
+      {
+        "t": "2024-04-19",
+        "netFlowBtc": 940,
+        "cumulativeHeldBtc": 840695.4
+      },
+      {
+        "t": "2024-04-22",
+        "netFlowBtc": 957.7,
+        "cumulativeHeldBtc": 841653.1
+      },
+      {
+        "t": "2024-04-23",
+        "netFlowBtc": 472.7,
+        "cumulativeHeldBtc": 842125.8
+      },
+      {
+        "t": "2024-04-24",
+        "netFlowBtc": -1815.8,
+        "cumulativeHeldBtc": 840310
+      },
+      {
+        "t": "2024-04-25",
+        "netFlowBtc": -3385.6,
+        "cumulativeHeldBtc": 836924.4
+      },
+      {
+        "t": "2024-04-26",
+        "netFlowBtc": -1296.4,
+        "cumulativeHeldBtc": 835628
+      },
+      {
+        "t": "2024-04-29",
+        "netFlowBtc": -817.6,
+        "cumulativeHeldBtc": 834810.4
+      },
+      {
+        "t": "2024-04-30",
+        "netFlowBtc": -2531.6,
+        "cumulativeHeldBtc": 832278.8
+      },
+      {
+        "t": "2024-05-01",
+        "netFlowBtc": -9301.5,
+        "cumulativeHeldBtc": 822977.3
+      },
+      {
+        "t": "2024-05-02",
+        "netFlowBtc": -590.4,
+        "cumulativeHeldBtc": 822386.9
+      },
+      {
+        "t": "2024-05-03",
+        "netFlowBtc": 6398.8,
+        "cumulativeHeldBtc": 828785.7
+      },
+      {
+        "t": "2024-05-06",
+        "netFlowBtc": 3388.2,
+        "cumulativeHeldBtc": 832173.9
+      },
+      {
+        "t": "2024-05-07",
+        "netFlowBtc": -248.6,
+        "cumulativeHeldBtc": 831925.3
+      },
+      {
+        "t": "2024-05-08",
+        "netFlowBtc": 184.5,
+        "cumulativeHeldBtc": 832109.8
+      },
+      {
+        "t": "2024-05-09",
+        "netFlowBtc": -184.7,
+        "cumulativeHeldBtc": 831925.1
+      },
+      {
+        "t": "2024-05-10",
+        "netFlowBtc": -1343,
+        "cumulativeHeldBtc": 830582.1
+      },
+      {
+        "t": "2024-05-13",
+        "netFlowBtc": 1074.1,
+        "cumulativeHeldBtc": 831656.2
+      },
+      {
+        "t": "2024-05-14",
+        "netFlowBtc": 1597.4,
+        "cumulativeHeldBtc": 833253.6
+      },
+      {
+        "t": "2024-05-15",
+        "netFlowBtc": 4922.2,
+        "cumulativeHeldBtc": 838175.8
+      },
+      {
+        "t": "2024-05-16",
+        "netFlowBtc": 3884.4,
+        "cumulativeHeldBtc": 842060.2
+      },
+      {
+        "t": "2024-05-17",
+        "netFlowBtc": 3395.6,
+        "cumulativeHeldBtc": 845455.8
+      },
+      {
+        "t": "2024-05-20",
+        "netFlowBtc": 3579.5,
+        "cumulativeHeldBtc": 849035.3
+      },
+      {
+        "t": "2024-05-21",
+        "netFlowBtc": 4278.9,
+        "cumulativeHeldBtc": 853314.2
+      },
+      {
+        "t": "2024-05-22",
+        "netFlowBtc": 2195.6,
+        "cumulativeHeldBtc": 855509.8
+      },
+      {
+        "t": "2024-05-23",
+        "netFlowBtc": 1560.7,
+        "cumulativeHeldBtc": 857070.5
+      },
+      {
+        "t": "2024-05-24",
+        "netFlowBtc": 3707.6,
+        "cumulativeHeldBtc": 860778.1
+      },
+      {
+        "t": "2024-05-28",
+        "netFlowBtc": 648.7,
+        "cumulativeHeldBtc": 861426.8
+      },
+      {
+        "t": "2024-05-29",
+        "netFlowBtc": 414.4,
+        "cumulativeHeldBtc": 861841.2
+      },
+      {
+        "t": "2024-05-30",
+        "netFlowBtc": 722.2,
+        "cumulativeHeldBtc": 862563.4
+      },
+      {
+        "t": "2024-05-31",
+        "netFlowBtc": 713.9,
+        "cumulativeHeldBtc": 863277.3
+      },
+      {
+        "t": "2024-06-03",
+        "netFlowBtc": 1551.2,
+        "cumulativeHeldBtc": 864828.5
+      },
+      {
+        "t": "2024-06-04",
+        "netFlowBtc": 12886,
+        "cumulativeHeldBtc": 877714.5
+      },
+      {
+        "t": "2024-06-05",
+        "netFlowBtc": 6918.2,
+        "cumulativeHeldBtc": 884632.7
+      },
+      {
+        "t": "2024-06-06",
+        "netFlowBtc": 3062.6,
+        "cumulativeHeldBtc": 887695.3
+      },
+      {
+        "t": "2024-06-07",
+        "netFlowBtc": 1851.2,
+        "cumulativeHeldBtc": 889546.5
+      },
+      {
+        "t": "2024-06-10",
+        "netFlowBtc": -931.9,
+        "cumulativeHeldBtc": 888614.6
+      },
+      {
+        "t": "2024-06-11",
+        "netFlowBtc": -2882.9,
+        "cumulativeHeldBtc": 885731.7
+      },
+      {
+        "t": "2024-06-12",
+        "netFlowBtc": 1497.1,
+        "cumulativeHeldBtc": 887228.8
+      },
+      {
+        "t": "2024-06-13",
+        "netFlowBtc": -3314.8,
+        "cumulativeHeldBtc": 883914
+      },
+      {
+        "t": "2024-06-14",
+        "netFlowBtc": -2844.6,
+        "cumulativeHeldBtc": 881069.4
+      },
+      {
+        "t": "2024-06-17",
+        "netFlowBtc": -2189.5,
+        "cumulativeHeldBtc": 878879.9
+      },
+      {
+        "t": "2024-06-18",
+        "netFlowBtc": -2292.4,
+        "cumulativeHeldBtc": 876587.5
+      },
+      {
+        "t": "2024-06-20",
+        "netFlowBtc": -2153.6,
+        "cumulativeHeldBtc": 874433.9
+      },
+      {
+        "t": "2024-06-21",
+        "netFlowBtc": -1633.5,
+        "cumulativeHeldBtc": 872800.4
+      },
+      {
+        "t": "2024-06-24",
+        "netFlowBtc": -2762.5,
+        "cumulativeHeldBtc": 870037.9
+      },
+      {
+        "t": "2024-06-25",
+        "netFlowBtc": 514.3,
+        "cumulativeHeldBtc": 870552.2
+      },
+      {
+        "t": "2024-06-26",
+        "netFlowBtc": 346.3,
+        "cumulativeHeldBtc": 870898.5
+      },
+      {
+        "t": "2024-06-27",
+        "netFlowBtc": 194.1,
+        "cumulativeHeldBtc": 871092.6
+      },
+      {
+        "t": "2024-06-28",
+        "netFlowBtc": 1184.8,
+        "cumulativeHeldBtc": 872277.4
+      },
+      {
+        "t": "2024-07-01",
+        "netFlowBtc": 2066.2,
+        "cumulativeHeldBtc": 874343.6
+      },
+      {
+        "t": "2024-07-02",
+        "netFlowBtc": -218,
+        "cumulativeHeldBtc": 874125.6
+      },
+      {
+        "t": "2024-07-03",
+        "netFlowBtc": -330.5,
+        "cumulativeHeldBtc": 873795.1
+      },
+      {
+        "t": "2024-07-05",
+        "netFlowBtc": 2509,
+        "cumulativeHeldBtc": 876304.1
+      },
+      {
+        "t": "2024-07-08",
+        "netFlowBtc": 5278.5,
+        "cumulativeHeldBtc": 881582.6
+      },
+      {
+        "t": "2024-07-09",
+        "netFlowBtc": 3816.2,
+        "cumulativeHeldBtc": 885398.8
+      },
+      {
+        "t": "2024-07-10",
+        "netFlowBtc": 2540.9,
+        "cumulativeHeldBtc": 887939.7
+      },
+      {
+        "t": "2024-07-11",
+        "netFlowBtc": 1366.4,
+        "cumulativeHeldBtc": 889306.1
+      },
+      {
+        "t": "2024-07-12",
+        "netFlowBtc": 5407,
+        "cumulativeHeldBtc": 894713.1
+      },
+      {
+        "t": "2024-07-15",
+        "netFlowBtc": 4949.2,
+        "cumulativeHeldBtc": 899662.3
+      },
+      {
+        "t": "2024-07-16",
+        "netFlowBtc": 6514.1,
+        "cumulativeHeldBtc": 906176.4
+      },
+      {
+        "t": "2024-07-17",
+        "netFlowBtc": 819,
+        "cumulativeHeldBtc": 906995.4
+      },
+      {
+        "t": "2024-07-18",
+        "netFlowBtc": 580.3,
+        "cumulativeHeldBtc": 907575.7
+      },
+      {
+        "t": "2024-07-19",
+        "netFlowBtc": 6678.3,
+        "cumulativeHeldBtc": 914254
+      },
+      {
+        "t": "2024-07-22",
+        "netFlowBtc": 7129.3,
+        "cumulativeHeldBtc": 921383.3
+      },
+      {
+        "t": "2024-07-23",
+        "netFlowBtc": -1153.9,
+        "cumulativeHeldBtc": 920229.4
+      },
+      {
+        "t": "2024-07-24",
+        "netFlowBtc": 675.1,
+        "cumulativeHeldBtc": 920904.5
+      },
+      {
+        "t": "2024-07-25",
+        "netFlowBtc": 475.8,
+        "cumulativeHeldBtc": 921380.3
+      },
+      {
+        "t": "2024-07-26",
+        "netFlowBtc": 787.3,
+        "cumulativeHeldBtc": 922167.6
+      },
+      {
+        "t": "2024-07-29",
+        "netFlowBtc": 1818.1,
+        "cumulativeHeldBtc": 923985.7
+      },
+      {
+        "t": "2024-07-30",
+        "netFlowBtc": -274,
+        "cumulativeHeldBtc": 923711.7
+      },
+      {
+        "t": "2024-07-31",
+        "netFlowBtc": 4.5,
+        "cumulativeHeldBtc": 923716.2
+      },
+      {
+        "t": "2024-08-01",
+        "netFlowBtc": 783,
+        "cumulativeHeldBtc": 924499.2
+      },
+      {
+        "t": "2024-08-02",
+        "netFlowBtc": -3635.7,
+        "cumulativeHeldBtc": 920863.5
+      },
+      {
+        "t": "2024-08-05",
+        "netFlowBtc": -2897.6,
+        "cumulativeHeldBtc": 917965.9
+      },
+      {
+        "t": "2024-08-06",
+        "netFlowBtc": -2752.9,
+        "cumulativeHeldBtc": 915213
+      },
+      {
+        "t": "2024-08-07",
+        "netFlowBtc": 804.2,
+        "cumulativeHeldBtc": 916017.2
+      },
+      {
+        "t": "2024-08-08",
+        "netFlowBtc": 3499.7,
+        "cumulativeHeldBtc": 919516.9
+      },
+      {
+        "t": "2024-08-09",
+        "netFlowBtc": -1453.8,
+        "cumulativeHeldBtc": 918063.1
+      },
+      {
+        "t": "2024-08-12",
+        "netFlowBtc": 473.5,
+        "cumulativeHeldBtc": 918536.6
+      },
+      {
+        "t": "2024-08-13",
+        "netFlowBtc": 657.1,
+        "cumulativeHeldBtc": 919193.7
+      },
+      {
+        "t": "2024-08-14",
+        "netFlowBtc": -1343.2,
+        "cumulativeHeldBtc": 917850.5
+      },
+      {
+        "t": "2024-08-15",
+        "netFlowBtc": 189,
+        "cumulativeHeldBtc": 918039.5
+      },
+      {
+        "t": "2024-08-16",
+        "netFlowBtc": 624.1,
+        "cumulativeHeldBtc": 918663.6
+      },
+      {
+        "t": "2024-08-19",
+        "netFlowBtc": 1062.5,
+        "cumulativeHeldBtc": 919726.1
+      },
+      {
+        "t": "2024-08-20",
+        "netFlowBtc": 1479.6,
+        "cumulativeHeldBtc": 921205.7
+      },
+      {
+        "t": "2024-08-21",
+        "netFlowBtc": 669.2,
+        "cumulativeHeldBtc": 921874.9
+      },
+      {
+        "t": "2024-08-22",
+        "netFlowBtc": 1059.3,
+        "cumulativeHeldBtc": 922934.2
+      },
+      {
+        "t": "2024-08-23",
+        "netFlowBtc": 4173.4,
+        "cumulativeHeldBtc": 927107.6
+      },
+      {
+        "t": "2024-08-26",
+        "netFlowBtc": 3149.5,
+        "cumulativeHeldBtc": 930257.1
+      },
+      {
+        "t": "2024-08-27",
+        "netFlowBtc": -2022,
+        "cumulativeHeldBtc": 928235.1
+      },
+      {
+        "t": "2024-08-28",
+        "netFlowBtc": -1770.7,
+        "cumulativeHeldBtc": 926464.4
+      },
+      {
+        "t": "2024-08-29",
+        "netFlowBtc": -1216.5,
+        "cumulativeHeldBtc": 925247.9
+      },
+      {
+        "t": "2024-08-30",
+        "netFlowBtc": -2956.8,
+        "cumulativeHeldBtc": 922291.1
+      },
+      {
+        "t": "2024-09-03",
+        "netFlowBtc": -4868.6,
+        "cumulativeHeldBtc": 917422.5
+      },
+      {
+        "t": "2024-09-04",
+        "netFlowBtc": -647.7,
+        "cumulativeHeldBtc": 916774.8
+      },
+      {
+        "t": "2024-09-05",
+        "netFlowBtc": -3641.7,
+        "cumulativeHeldBtc": 913133.1
+      },
+      {
+        "t": "2024-09-06",
+        "netFlowBtc": -3026.8,
+        "cumulativeHeldBtc": 910106.3
+      },
+      {
+        "t": "2024-09-09",
+        "netFlowBtc": 521.4,
+        "cumulativeHeldBtc": 910627.7
+      },
+      {
+        "t": "2024-09-10",
+        "netFlowBtc": 2050.6,
+        "cumulativeHeldBtc": 912678.3
+      },
+      {
+        "t": "2024-09-11",
+        "netFlowBtc": -761.7,
+        "cumulativeHeldBtc": 911916.6
+      },
+      {
+        "t": "2024-09-12",
+        "netFlowBtc": 680.1,
+        "cumulativeHeldBtc": 912596.7
+      },
+      {
+        "t": "2024-09-13",
+        "netFlowBtc": 4527.3,
+        "cumulativeHeldBtc": 917124
+      },
+      {
+        "t": "2024-09-16",
+        "netFlowBtc": 216.4,
+        "cumulativeHeldBtc": 917340.4
+      },
+      {
+        "t": "2024-09-17",
+        "netFlowBtc": 3209.9,
+        "cumulativeHeldBtc": 920550.3
+      },
+      {
+        "t": "2024-09-18",
+        "netFlowBtc": -873.9,
+        "cumulativeHeldBtc": 919676.4
+      },
+      {
+        "t": "2024-09-19",
+        "netFlowBtc": 2566.3,
+        "cumulativeHeldBtc": 922242.7
+      },
+      {
+        "t": "2024-09-20",
+        "netFlowBtc": 1461.8,
+        "cumulativeHeldBtc": 923704.5
+      },
+      {
+        "t": "2024-09-23",
+        "netFlowBtc": 70.7,
+        "cumulativeHeldBtc": 923775.2
+      },
+      {
+        "t": "2024-09-24",
+        "netFlowBtc": 2147.5,
+        "cumulativeHeldBtc": 925922.7
+      },
+      {
+        "t": "2024-09-25",
+        "netFlowBtc": 1647.5,
+        "cumulativeHeldBtc": 927570.2
+      },
+      {
+        "t": "2024-09-26",
+        "netFlowBtc": 5792,
+        "cumulativeHeldBtc": 933362.2
+      },
+      {
+        "t": "2024-09-27",
+        "netFlowBtc": 7585.2,
+        "cumulativeHeldBtc": 940947.4
+      },
+      {
+        "t": "2024-09-30",
+        "netFlowBtc": 934.2,
+        "cumulativeHeldBtc": 941881.6
+      },
+      {
+        "t": "2024-10-01",
+        "netFlowBtc": -3831.1,
+        "cumulativeHeldBtc": 938050.5
+      },
+      {
+        "t": "2024-10-02",
+        "netFlowBtc": -1507.3,
+        "cumulativeHeldBtc": 936543.2
+      },
+      {
+        "t": "2024-10-03",
+        "netFlowBtc": -893.8,
+        "cumulativeHeldBtc": 935649.4
+      },
+      {
+        "t": "2024-10-04",
+        "netFlowBtc": 421.4,
+        "cumulativeHeldBtc": 936070.8
+      },
+      {
+        "t": "2024-10-07",
+        "netFlowBtc": 3744.3,
+        "cumulativeHeldBtc": 939815.1
+      },
+      {
+        "t": "2024-10-08",
+        "netFlowBtc": -298.9,
+        "cumulativeHeldBtc": 939516.2
+      },
+      {
+        "t": "2024-10-09",
+        "netFlowBtc": -653.5,
+        "cumulativeHeldBtc": 938862.7
+      },
+      {
+        "t": "2024-10-10",
+        "netFlowBtc": -1338.9,
+        "cumulativeHeldBtc": 937523.8
+      },
+      {
+        "t": "2024-10-11",
+        "netFlowBtc": 4207.8,
+        "cumulativeHeldBtc": 941731.6
+      },
+      {
+        "t": "2024-10-14",
+        "netFlowBtc": 8845.9,
+        "cumulativeHeldBtc": 950577.5
+      },
+      {
+        "t": "2024-10-15",
+        "netFlowBtc": 5617.1,
+        "cumulativeHeldBtc": 956194.6
+      },
+      {
+        "t": "2024-10-16",
+        "netFlowBtc": 6838.2,
+        "cumulativeHeldBtc": 963032.8
+      },
+      {
+        "t": "2024-10-17",
+        "netFlowBtc": 6960.1,
+        "cumulativeHeldBtc": 969992.9
+      },
+      {
+        "t": "2024-10-18",
+        "netFlowBtc": 4060.7,
+        "cumulativeHeldBtc": 974053.6
+      },
+      {
+        "t": "2024-10-21",
+        "netFlowBtc": 4264.5,
+        "cumulativeHeldBtc": 978318.1
+      },
+      {
+        "t": "2024-10-22",
+        "netFlowBtc": -1174.2,
+        "cumulativeHeldBtc": 977143.9
+      },
+      {
+        "t": "2024-10-23",
+        "netFlowBtc": 2855.9,
+        "cumulativeHeldBtc": 979999.8
+      },
+      {
+        "t": "2024-10-24",
+        "netFlowBtc": 2820.5,
+        "cumulativeHeldBtc": 982820.3
+      },
+      {
+        "t": "2024-10-25",
+        "netFlowBtc": 5897.7,
+        "cumulativeHeldBtc": 988718
+      },
+      {
+        "t": "2024-10-28",
+        "netFlowBtc": 7056.3,
+        "cumulativeHeldBtc": 995774.3
+      },
+      {
+        "t": "2024-10-29",
+        "netFlowBtc": 12445.4,
+        "cumulativeHeldBtc": 1008219.7
+      },
+      {
+        "t": "2024-10-30",
+        "netFlowBtc": 12286.4,
+        "cumulativeHeldBtc": 1020506.1
+      },
+      {
+        "t": "2024-10-31",
+        "netFlowBtc": 446.6,
+        "cumulativeHeldBtc": 1020952.7
+      },
+      {
+        "t": "2024-11-01",
+        "netFlowBtc": -781.8,
+        "cumulativeHeldBtc": 1020170.9
+      },
+      {
+        "t": "2024-11-04",
+        "netFlowBtc": -7871.2,
+        "cumulativeHeldBtc": 1012299.7
+      },
+      {
+        "t": "2024-11-05",
+        "netFlowBtc": -1722.5,
+        "cumulativeHeldBtc": 1010577.2
+      },
+      {
+        "t": "2024-11-06",
+        "netFlowBtc": 8963.3,
+        "cumulativeHeldBtc": 1019540.5
+      },
+      {
+        "t": "2024-11-07",
+        "netFlowBtc": 18161.7,
+        "cumulativeHeldBtc": 1037702.2
+      },
+      {
+        "t": "2024-11-08",
+        "netFlowBtc": 3864.3,
+        "cumulativeHeldBtc": 1041566.5
+      },
+      {
+        "t": "2024-11-11",
+        "netFlowBtc": 13843.6,
+        "cumulativeHeldBtc": 1055410.1
+      },
+      {
+        "t": "2024-11-12",
+        "netFlowBtc": 9214.4,
+        "cumulativeHeldBtc": 1064624.5
+      },
+      {
+        "t": "2024-11-13",
+        "netFlowBtc": 5798.4,
+        "cumulativeHeldBtc": 1070422.9
+      },
+      {
+        "t": "2024-11-14",
+        "netFlowBtc": -4425.8,
+        "cumulativeHeldBtc": 1065997.1
+      },
+      {
+        "t": "2024-11-15",
+        "netFlowBtc": -2744.8,
+        "cumulativeHeldBtc": 1063252.3
+      },
+      {
+        "t": "2024-11-18",
+        "netFlowBtc": 2836.5,
+        "cumulativeHeldBtc": 1066088.8
+      },
+      {
+        "t": "2024-11-19",
+        "netFlowBtc": 9161.6,
+        "cumulativeHeldBtc": 1075250.4
+      },
+      {
+        "t": "2024-11-20",
+        "netFlowBtc": 8617.6,
+        "cumulativeHeldBtc": 1083868
+      },
+      {
+        "t": "2024-11-21",
+        "netFlowBtc": 10652.4,
+        "cumulativeHeldBtc": 1094520.4
+      },
+      {
+        "t": "2024-11-22",
+        "netFlowBtc": 4977.6,
+        "cumulativeHeldBtc": 1099498
+      },
+      {
+        "t": "2024-11-25",
+        "netFlowBtc": -4439.9,
+        "cumulativeHeldBtc": 1095058.1
+      },
+      {
+        "t": "2024-11-26",
+        "netFlowBtc": -1320.4,
+        "cumulativeHeldBtc": 1093737.7
+      },
+      {
+        "t": "2024-11-27",
+        "netFlowBtc": 1120,
+        "cumulativeHeldBtc": 1094857.7
+      },
+      {
+        "t": "2024-11-29",
+        "netFlowBtc": 3345.5,
+        "cumulativeHeldBtc": 1098203.2
+      },
+      {
+        "t": "2024-12-02",
+        "netFlowBtc": 3635.1,
+        "cumulativeHeldBtc": 1101838.3
+      },
+      {
+        "t": "2024-12-03",
+        "netFlowBtc": 7052.2,
+        "cumulativeHeldBtc": 1108890.5
+      },
+      {
+        "t": "2024-12-04",
+        "netFlowBtc": 5803.5,
+        "cumulativeHeldBtc": 1114694
+      },
+      {
+        "t": "2024-12-05",
+        "netFlowBtc": 7762.6,
+        "cumulativeHeldBtc": 1122456.6
+      },
+      {
+        "t": "2024-12-06",
+        "netFlowBtc": 3879.3,
+        "cumulativeHeldBtc": 1126335.9
+      },
+      {
+        "t": "2024-12-09",
+        "netFlowBtc": 4735.1,
+        "cumulativeHeldBtc": 1131071
+      },
+      {
+        "t": "2024-12-10",
+        "netFlowBtc": 4510.3,
+        "cumulativeHeldBtc": 1135581.3
+      },
+      {
+        "t": "2024-12-11",
+        "netFlowBtc": 2308.2,
+        "cumulativeHeldBtc": 1137889.5
+      },
+      {
+        "t": "2024-12-12",
+        "netFlowBtc": 5904.6,
+        "cumulativeHeldBtc": 1143794.1
+      },
+      {
+        "t": "2024-12-13",
+        "netFlowBtc": 4287.2,
+        "cumulativeHeldBtc": 1148081.3
+      },
+      {
+        "t": "2024-12-16",
+        "netFlowBtc": 6104,
+        "cumulativeHeldBtc": 1154185.3
+      },
+      {
+        "t": "2024-12-17",
+        "netFlowBtc": 4656.8,
+        "cumulativeHeldBtc": 1158842.1
+      },
+      {
+        "t": "2024-12-18",
+        "netFlowBtc": 2593.4,
+        "cumulativeHeldBtc": 1161435.5
+      },
+      {
+        "t": "2024-12-19",
+        "netFlowBtc": -6708.4,
+        "cumulativeHeldBtc": 1154727.1
+      },
+      {
+        "t": "2024-12-20",
+        "netFlowBtc": -2841.9,
+        "cumulativeHeldBtc": 1151885.2
+      },
+      {
+        "t": "2024-12-23",
+        "netFlowBtc": -2381.8,
+        "cumulativeHeldBtc": 1149503.4
+      },
+      {
+        "t": "2024-12-24",
+        "netFlowBtc": -3572.8,
+        "cumulativeHeldBtc": 1145930.6
+      },
+      {
+        "t": "2024-12-26",
+        "netFlowBtc": 4785.5,
+        "cumulativeHeldBtc": 1150716.1
+      },
+      {
+        "t": "2024-12-27",
+        "netFlowBtc": -3008.8,
+        "cumulativeHeldBtc": 1147707.3
+      },
+      {
+        "t": "2024-12-30",
+        "netFlowBtc": -4437.8,
+        "cumulativeHeldBtc": 1143269.5
+      },
+      {
+        "t": "2024-12-31",
+        "netFlowBtc": 57.2,
+        "cumulativeHeldBtc": 1143326.7
+      },
+      {
+        "t": "2025-01-02",
+        "netFlowBtc": -2566.5,
+        "cumulativeHeldBtc": 1140760.2
+      },
+      {
+        "t": "2025-01-03",
+        "netFlowBtc": 9376,
+        "cumulativeHeldBtc": 1150136.2
+      },
+      {
+        "t": "2025-01-06",
+        "netFlowBtc": 9953.3,
+        "cumulativeHeldBtc": 1160089.5
+      },
+      {
+        "t": "2025-01-07",
+        "netFlowBtc": 512.5,
+        "cumulativeHeldBtc": 1160602
+      },
+      {
+        "t": "2025-01-08",
+        "netFlowBtc": -5869,
+        "cumulativeHeldBtc": 1154733
+      },
+      {
+        "t": "2025-01-10",
+        "netFlowBtc": -1615.3,
+        "cumulativeHeldBtc": 1153117.7
+      },
+      {
+        "t": "2025-01-13",
+        "netFlowBtc": -3007,
+        "cumulativeHeldBtc": 1150110.7
+      },
+      {
+        "t": "2025-01-14",
+        "netFlowBtc": -2220.2,
+        "cumulativeHeldBtc": 1147890.5
+      },
+      {
+        "t": "2025-01-15",
+        "netFlowBtc": 7822.7,
+        "cumulativeHeldBtc": 1155713.2
+      },
+      {
+        "t": "2025-01-16",
+        "netFlowBtc": 6229.1,
+        "cumulativeHeldBtc": 1161942.3
+      },
+      {
+        "t": "2025-01-17",
+        "netFlowBtc": 10730.5,
+        "cumulativeHeldBtc": 1172672.8
+      },
+      {
+        "t": "2025-01-21",
+        "netFlowBtc": 7865.4,
+        "cumulativeHeldBtc": 1180538.2
+      },
+      {
+        "t": "2025-01-22",
+        "netFlowBtc": 2342.7,
+        "cumulativeHeldBtc": 1182880.9
+      },
+      {
+        "t": "2025-01-23",
+        "netFlowBtc": 1820.8,
+        "cumulativeHeldBtc": 1184701.7
+      },
+      {
+        "t": "2025-01-24",
+        "netFlowBtc": 4980.3,
+        "cumulativeHeldBtc": 1189682
+      },
+      {
+        "t": "2025-01-27",
+        "netFlowBtc": -4460.4,
+        "cumulativeHeldBtc": 1185221.6
+      },
+      {
+        "t": "2025-01-28",
+        "netFlowBtc": 180.2,
+        "cumulativeHeldBtc": 1185401.8
+      },
+      {
+        "t": "2025-01-29",
+        "netFlowBtc": 908,
+        "cumulativeHeldBtc": 1186309.8
+      },
+      {
+        "t": "2025-01-30",
+        "netFlowBtc": 5670.9,
+        "cumulativeHeldBtc": 1191980.7
+      },
+      {
+        "t": "2025-01-31",
+        "netFlowBtc": 3041.7,
+        "cumulativeHeldBtc": 1195022.4
+      },
+      {
+        "t": "2025-02-03",
+        "netFlowBtc": -2399.8,
+        "cumulativeHeldBtc": 1192622.6
+      },
+      {
+        "t": "2025-02-04",
+        "netFlowBtc": 3359.5,
+        "cumulativeHeldBtc": 1195982.1
+      },
+      {
+        "t": "2025-02-05",
+        "netFlowBtc": 678.4,
+        "cumulativeHeldBtc": 1196660.5
+      },
+      {
+        "t": "2025-02-06",
+        "netFlowBtc": -1451.2,
+        "cumulativeHeldBtc": 1195209.3
+      },
+      {
+        "t": "2025-02-07",
+        "netFlowBtc": 1773.9,
+        "cumulativeHeldBtc": 1196983.2
+      },
+      {
+        "t": "2025-02-10",
+        "netFlowBtc": -1930.8,
+        "cumulativeHeldBtc": 1195052.4
+      },
+      {
+        "t": "2025-02-11",
+        "netFlowBtc": -581.8,
+        "cumulativeHeldBtc": 1194470.6
+      },
+      {
+        "t": "2025-02-12",
+        "netFlowBtc": -2621.4,
+        "cumulativeHeldBtc": 1191849.2
+      },
+      {
+        "t": "2025-02-13",
+        "netFlowBtc": -1602,
+        "cumulativeHeldBtc": 1190247.2
+      },
+      {
+        "t": "2025-02-14",
+        "netFlowBtc": 730.6,
+        "cumulativeHeldBtc": 1190977.8
+      },
+      {
+        "t": "2025-02-18",
+        "netFlowBtc": -633.8,
+        "cumulativeHeldBtc": 1190344
+      },
+      {
+        "t": "2025-02-19",
+        "netFlowBtc": -670.9,
+        "cumulativeHeldBtc": 1189673.1
+      },
+      {
+        "t": "2025-02-20",
+        "netFlowBtc": -3774.7,
+        "cumulativeHeldBtc": 1185898.4
+      },
+      {
+        "t": "2025-02-21",
+        "netFlowBtc": -639.7,
+        "cumulativeHeldBtc": 1185258.7
+      },
+      {
+        "t": "2025-02-24",
+        "netFlowBtc": -5598.6,
+        "cumulativeHeldBtc": 1179660.1
+      },
+      {
+        "t": "2025-02-25",
+        "netFlowBtc": -12441.8,
+        "cumulativeHeldBtc": 1167218.3
+      },
+      {
+        "t": "2025-02-26",
+        "netFlowBtc": -8510.8,
+        "cumulativeHeldBtc": 1158707.5
+      },
+      {
+        "t": "2025-02-27",
+        "netFlowBtc": -3280,
+        "cumulativeHeldBtc": 1155427.5
+      },
+      {
+        "t": "2025-02-28",
+        "netFlowBtc": 1114.1,
+        "cumulativeHeldBtc": 1156541.6
+      },
+      {
+        "t": "2025-03-03",
+        "netFlowBtc": -787.2,
+        "cumulativeHeldBtc": 1155754.4
+      },
+      {
+        "t": "2025-03-04",
+        "netFlowBtc": -1667,
+        "cumulativeHeldBtc": 1154087.4
+      },
+      {
+        "t": "2025-03-05",
+        "netFlowBtc": 253.4,
+        "cumulativeHeldBtc": 1154340.8
+      },
+      {
+        "t": "2025-03-06",
+        "netFlowBtc": -1482.2,
+        "cumulativeHeldBtc": 1152858.6
+      },
+      {
+        "t": "2025-03-07",
+        "netFlowBtc": -4551.8,
+        "cumulativeHeldBtc": 1148306.8
+      },
+      {
+        "t": "2025-03-10",
+        "netFlowBtc": -4577.9,
+        "cumulativeHeldBtc": 1143728.9
+      },
+      {
+        "t": "2025-03-11",
+        "netFlowBtc": -4722.6,
+        "cumulativeHeldBtc": 1139006.3
+      },
+      {
+        "t": "2025-03-12",
+        "netFlowBtc": 160.5,
+        "cumulativeHeldBtc": 1139166.8
+      },
+      {
+        "t": "2025-03-13",
+        "netFlowBtc": -1615.2,
+        "cumulativeHeldBtc": 1137551.6
+      },
+      {
+        "t": "2025-03-14",
+        "netFlowBtc": 509.4,
+        "cumulativeHeldBtc": 1138061
+      },
+      {
+        "t": "2025-03-17",
+        "netFlowBtc": 3325.2,
+        "cumulativeHeldBtc": 1141386.2
+      },
+      {
+        "t": "2025-03-18",
+        "netFlowBtc": 2488.1,
+        "cumulativeHeldBtc": 1143874.3
+      },
+      {
+        "t": "2025-03-19",
+        "netFlowBtc": 142.7,
+        "cumulativeHeldBtc": 1144017
+      },
+      {
+        "t": "2025-03-20",
+        "netFlowBtc": 1907.5,
+        "cumulativeHeldBtc": 1145924.5
+      },
+      {
+        "t": "2025-03-21",
+        "netFlowBtc": 987.2,
+        "cumulativeHeldBtc": 1146911.7
+      },
+      {
+        "t": "2025-03-24",
+        "netFlowBtc": 978.4,
+        "cumulativeHeldBtc": 1147890.1
+      },
+      {
+        "t": "2025-03-25",
+        "netFlowBtc": 306.3,
+        "cumulativeHeldBtc": 1148196.4
+      },
+      {
+        "t": "2025-03-26",
+        "netFlowBtc": 1024.3,
+        "cumulativeHeldBtc": 1149220.7
+      },
+      {
+        "t": "2025-03-27",
+        "netFlowBtc": 1024.1,
+        "cumulativeHeldBtc": 1150244.8
+      },
+      {
+        "t": "2025-03-28",
+        "netFlowBtc": -1069,
+        "cumulativeHeldBtc": 1149175.8
+      },
+      {
+        "t": "2025-03-31",
+        "netFlowBtc": -736,
+        "cumulativeHeldBtc": 1148439.8
+      },
+      {
+        "t": "2025-04-01",
+        "netFlowBtc": -1912,
+        "cumulativeHeldBtc": 1146527.8
+      },
+      {
+        "t": "2025-04-02",
+        "netFlowBtc": 2560.3,
+        "cumulativeHeldBtc": 1149088.1
+      },
+      {
+        "t": "2025-04-03",
+        "netFlowBtc": -1209.9,
+        "cumulativeHeldBtc": 1147878.2
+      },
+      {
+        "t": "2025-04-04",
+        "netFlowBtc": -781,
+        "cumulativeHeldBtc": 1147097.2
+      },
+      {
+        "t": "2025-04-07",
+        "netFlowBtc": -1325.7,
+        "cumulativeHeldBtc": 1145771.5
+      },
+      {
+        "t": "2025-04-08",
+        "netFlowBtc": -4120.5,
+        "cumulativeHeldBtc": 1141651
+      },
+      {
+        "t": "2025-04-09",
+        "netFlowBtc": -1667.8,
+        "cumulativeHeldBtc": 1139983.2
+      },
+      {
+        "t": "2025-04-10",
+        "netFlowBtc": -1810.5,
+        "cumulativeHeldBtc": 1138172.7
+      },
+      {
+        "t": "2025-04-11",
+        "netFlowBtc": -12.6,
+        "cumulativeHeldBtc": 1138160.1
+      },
+      {
+        "t": "2025-04-14",
+        "netFlowBtc": 17.9,
+        "cumulativeHeldBtc": 1138178
+      },
+      {
+        "t": "2025-04-15",
+        "netFlowBtc": 903.6,
+        "cumulativeHeldBtc": 1139081.6
+      },
+      {
+        "t": "2025-04-16",
+        "netFlowBtc": -2045.9,
+        "cumulativeHeldBtc": 1137035.7
+      },
+      {
+        "t": "2025-04-17",
+        "netFlowBtc": 1284,
+        "cumulativeHeldBtc": 1138319.7
+      },
+      {
+        "t": "2025-04-21",
+        "netFlowBtc": 4476.8,
+        "cumulativeHeldBtc": 1142796.5
+      },
+      {
+        "t": "2025-04-22",
+        "netFlowBtc": 10428.1,
+        "cumulativeHeldBtc": 1153224.6
+      },
+      {
+        "t": "2025-04-23",
+        "netFlowBtc": 9810.4,
+        "cumulativeHeldBtc": 1163035
+      },
+      {
+        "t": "2025-04-24",
+        "netFlowBtc": 4716.7,
+        "cumulativeHeldBtc": 1167751.7
+      },
+      {
+        "t": "2025-04-25",
+        "netFlowBtc": 4043.8,
+        "cumulativeHeldBtc": 1171795.5
+      },
+      {
+        "t": "2025-04-28",
+        "netFlowBtc": 6304,
+        "cumulativeHeldBtc": 1178099.5
+      },
+      {
+        "t": "2025-04-29",
+        "netFlowBtc": 1819,
+        "cumulativeHeldBtc": 1179918.5
+      },
+      {
+        "t": "2025-04-30",
+        "netFlowBtc": -597.2,
+        "cumulativeHeldBtc": 1179321.3
+      },
+      {
+        "t": "2025-05-01",
+        "netFlowBtc": 4484.8,
+        "cumulativeHeldBtc": 1183806.1
+      },
+      {
+        "t": "2025-05-02",
+        "netFlowBtc": 6993.3,
+        "cumulativeHeldBtc": 1190799.4
+      },
+      {
+        "t": "2025-05-05",
+        "netFlowBtc": 4511.6,
+        "cumulativeHeldBtc": 1195311
+      },
+      {
+        "t": "2025-05-06",
+        "netFlowBtc": -904.7,
+        "cumulativeHeldBtc": 1194406.3
+      },
+      {
+        "t": "2025-05-07",
+        "netFlowBtc": 1469.8,
+        "cumulativeHeldBtc": 1195876.1
+      },
+      {
+        "t": "2025-05-08",
+        "netFlowBtc": 1209.8,
+        "cumulativeHeldBtc": 1197085.9
+      },
+      {
+        "t": "2025-05-09",
+        "netFlowBtc": 3240.5,
+        "cumulativeHeldBtc": 1200326.4
+      },
+      {
+        "t": "2025-05-12",
+        "netFlowBtc": 49.9,
+        "cumulativeHeldBtc": 1200376.3
+      },
+      {
+        "t": "2025-05-13",
+        "netFlowBtc": -935.6,
+        "cumulativeHeldBtc": 1199440.7
+      },
+      {
+        "t": "2025-05-14",
+        "netFlowBtc": 3067.6,
+        "cumulativeHeldBtc": 1202508.3
+      },
+      {
+        "t": "2025-05-15",
+        "netFlowBtc": 1109.6,
+        "cumulativeHeldBtc": 1203617.9
+      },
+      {
+        "t": "2025-05-16",
+        "netFlowBtc": 2507.8,
+        "cumulativeHeldBtc": 1206125.7
+      },
+      {
+        "t": "2025-05-19",
+        "netFlowBtc": 6271.1,
+        "cumulativeHeldBtc": 1212396.8
+      },
+      {
+        "t": "2025-05-20",
+        "netFlowBtc": 3116.8,
+        "cumulativeHeldBtc": 1215513.6
+      },
+      {
+        "t": "2025-05-21",
+        "netFlowBtc": 5684.1,
+        "cumulativeHeldBtc": 1221197.7
+      },
+      {
+        "t": "2025-05-22",
+        "netFlowBtc": 8523.9,
+        "cumulativeHeldBtc": 1229721.6
+      },
+      {
+        "t": "2025-05-23",
+        "netFlowBtc": 1894.9,
+        "cumulativeHeldBtc": 1231616.5
+      },
+      {
+        "t": "2025-05-27",
+        "netFlowBtc": 3520.2,
+        "cumulativeHeldBtc": 1235136.7
+      },
+      {
+        "t": "2025-05-28",
+        "netFlowBtc": 3970.2,
+        "cumulativeHeldBtc": 1239106.9
+      },
+      {
+        "t": "2025-05-29",
+        "netFlowBtc": -3216.8,
+        "cumulativeHeldBtc": 1235890.1
+      },
+      {
+        "t": "2025-05-30",
+        "netFlowBtc": -5834.9,
+        "cumulativeHeldBtc": 1230055.2
+      },
+      {
+        "t": "2025-06-02",
+        "netFlowBtc": -2530.7,
+        "cumulativeHeldBtc": 1227524.5
+      },
+      {
+        "t": "2025-06-03",
+        "netFlowBtc": 3541.8,
+        "cumulativeHeldBtc": 1231066.3
+      },
+      {
+        "t": "2025-06-04",
+        "netFlowBtc": 825.2,
+        "cumulativeHeldBtc": 1231891.5
+      },
+      {
+        "t": "2025-06-05",
+        "netFlowBtc": -2657.9,
+        "cumulativeHeldBtc": 1229233.6
+      },
+      {
+        "t": "2025-06-06",
+        "netFlowBtc": -470.6,
+        "cumulativeHeldBtc": 1228763
+      },
+      {
+        "t": "2025-06-09",
+        "netFlowBtc": 3651.3,
+        "cumulativeHeldBtc": 1232414.3
+      },
+      {
+        "t": "2025-06-10",
+        "netFlowBtc": 3909.3,
+        "cumulativeHeldBtc": 1236323.6
+      },
+      {
+        "t": "2025-06-11",
+        "netFlowBtc": 1492.6,
+        "cumulativeHeldBtc": 1237816.2
+      },
+      {
+        "t": "2025-06-12",
+        "netFlowBtc": 794,
+        "cumulativeHeldBtc": 1238610.2
+      },
+      {
+        "t": "2025-06-13",
+        "netFlowBtc": 3051.4,
+        "cumulativeHeldBtc": 1241661.6
+      },
+      {
+        "t": "2025-06-16",
+        "netFlowBtc": 3904.9,
+        "cumulativeHeldBtc": 1245566.5
+      },
+      {
+        "t": "2025-06-17",
+        "netFlowBtc": 2027.2,
+        "cumulativeHeldBtc": 1247593.7
+      },
+      {
+        "t": "2025-06-18",
+        "netFlowBtc": 3723.5,
+        "cumulativeHeldBtc": 1251317.2
+      },
+      {
+        "t": "2025-06-20",
+        "netFlowBtc": 61.1,
+        "cumulativeHeldBtc": 1251378.3
+      },
+      {
+        "t": "2025-06-23",
+        "netFlowBtc": 3471.4,
+        "cumulativeHeldBtc": 1254849.7
+      },
+      {
+        "t": "2025-06-24",
+        "netFlowBtc": 5585.5,
+        "cumulativeHeldBtc": 1260435.2
+      },
+      {
+        "t": "2025-06-25",
+        "netFlowBtc": 5161.2,
+        "cumulativeHeldBtc": 1265596.4
+      },
+      {
+        "t": "2025-06-26",
+        "netFlowBtc": 2111.1,
+        "cumulativeHeldBtc": 1267707.5
+      },
+      {
+        "t": "2025-06-27",
+        "netFlowBtc": 4685,
+        "cumulativeHeldBtc": 1272392.5
+      },
+      {
+        "t": "2025-06-30",
+        "netFlowBtc": 942,
+        "cumulativeHeldBtc": 1273334.5
+      },
+      {
+        "t": "2025-07-01",
+        "netFlowBtc": -3194.2,
+        "cumulativeHeldBtc": 1270140.3
+      },
+      {
+        "t": "2025-07-02",
+        "netFlowBtc": 3857.9,
+        "cumulativeHeldBtc": 1273998.2
+      },
+      {
+        "t": "2025-07-03",
+        "netFlowBtc": 5528.9,
+        "cumulativeHeldBtc": 1279527.1
+      },
+      {
+        "t": "2025-07-07",
+        "netFlowBtc": 1982.2,
+        "cumulativeHeldBtc": 1281509.3
+      },
+      {
+        "t": "2025-07-08",
+        "netFlowBtc": 739.6,
+        "cumulativeHeldBtc": 1282248.9
+      },
+      {
+        "t": "2025-07-09",
+        "netFlowBtc": 1980.1,
+        "cumulativeHeldBtc": 1284229
+      },
+      {
+        "t": "2025-07-10",
+        "netFlowBtc": 10561.9,
+        "cumulativeHeldBtc": 1294790.9
+      },
+      {
+        "t": "2025-07-11",
+        "netFlowBtc": 8876.3,
+        "cumulativeHeldBtc": 1303667.2
+      },
+      {
+        "t": "2025-07-14",
+        "netFlowBtc": 2497.2,
+        "cumulativeHeldBtc": 1306164.4
+      },
+      {
+        "t": "2025-07-15",
+        "netFlowBtc": 3362.8,
+        "cumulativeHeldBtc": 1309527.2
+      },
+      {
+        "t": "2025-07-16",
+        "netFlowBtc": 6788.2,
+        "cumulativeHeldBtc": 1316315.4
+      },
+      {
+        "t": "2025-07-17",
+        "netFlowBtc": 4400.9,
+        "cumulativeHeldBtc": 1320716.3
+      },
+      {
+        "t": "2025-07-18",
+        "netFlowBtc": 3047.5,
+        "cumulativeHeldBtc": 1323763.8
+      },
+      {
+        "t": "2025-07-21",
+        "netFlowBtc": -1120,
+        "cumulativeHeldBtc": 1322643.8
+      },
+      {
+        "t": "2025-07-22",
+        "netFlowBtc": -579,
+        "cumulativeHeldBtc": 1322064.8
+      },
+      {
+        "t": "2025-07-23",
+        "netFlowBtc": -715,
+        "cumulativeHeldBtc": 1321349.8
+      },
+      {
+        "t": "2025-07-24",
+        "netFlowBtc": 1908.6,
+        "cumulativeHeldBtc": 1323258.4
+      },
+      {
+        "t": "2025-07-25",
+        "netFlowBtc": 1105.2,
+        "cumulativeHeldBtc": 1324363.6
+      },
+      {
+        "t": "2025-07-28",
+        "netFlowBtc": 1315.1,
+        "cumulativeHeldBtc": 1325678.7
+      },
+      {
+        "t": "2025-07-29",
+        "netFlowBtc": 677.8,
+        "cumulativeHeldBtc": 1326356.5
+      },
+      {
+        "t": "2025-07-30",
+        "netFlowBtc": 399.4,
+        "cumulativeHeldBtc": 1326755.9
+      },
+      {
+        "t": "2025-07-31",
+        "netFlowBtc": -974.3,
+        "cumulativeHeldBtc": 1325781.6
+      },
+      {
+        "t": "2025-08-01",
+        "netFlowBtc": -7017.5,
+        "cumulativeHeldBtc": 1318764.1
+      },
+      {
+        "t": "2025-08-04",
+        "netFlowBtc": -2832.1,
+        "cumulativeHeldBtc": 1315932
+      },
+      {
+        "t": "2025-08-05",
+        "netFlowBtc": -1705.1,
+        "cumulativeHeldBtc": 1314226.9
+      },
+      {
+        "t": "2025-08-06",
+        "netFlowBtc": 802.5,
+        "cumulativeHeldBtc": 1315029.4
+      },
+      {
+        "t": "2025-08-07",
+        "netFlowBtc": 2411.7,
+        "cumulativeHeldBtc": 1317441.1
+      },
+      {
+        "t": "2025-08-08",
+        "netFlowBtc": 3437.1,
+        "cumulativeHeldBtc": 1320878.2
+      },
+      {
+        "t": "2025-08-11",
+        "netFlowBtc": 1492.9,
+        "cumulativeHeldBtc": 1322371.1
+      },
+      {
+        "t": "2025-08-12",
+        "netFlowBtc": 555.1,
+        "cumulativeHeldBtc": 1322926.2
+      },
+      {
+        "t": "2025-08-13",
+        "netFlowBtc": 723.1,
+        "cumulativeHeldBtc": 1323649.3
+      },
+      {
+        "t": "2025-08-14",
+        "netFlowBtc": 1871,
+        "cumulativeHeldBtc": 1325520.3
+      },
+      {
+        "t": "2025-08-15",
+        "netFlowBtc": -119.1,
+        "cumulativeHeldBtc": 1325401.2
+      },
+      {
+        "t": "2025-08-18",
+        "netFlowBtc": -1036.1,
+        "cumulativeHeldBtc": 1324365.1
+      },
+      {
+        "t": "2025-08-19",
+        "netFlowBtc": -4501.5,
+        "cumulativeHeldBtc": 1319863.6
+      },
+      {
+        "t": "2025-08-20",
+        "netFlowBtc": -2800.1,
+        "cumulativeHeldBtc": 1317063.5
+      },
+      {
+        "t": "2025-08-21",
+        "netFlowBtc": -1701.3,
+        "cumulativeHeldBtc": 1315362.2
+      },
+      {
+        "t": "2025-08-22",
+        "netFlowBtc": -206.3,
+        "cumulativeHeldBtc": 1315155.9
+      },
+      {
+        "t": "2025-08-25",
+        "netFlowBtc": 1930.9,
+        "cumulativeHeldBtc": 1317086.8
+      },
+      {
+        "t": "2025-08-26",
+        "netFlowBtc": 799.9,
+        "cumulativeHeldBtc": 1317886.7
+      },
+      {
+        "t": "2025-08-27",
+        "netFlowBtc": 728.1,
+        "cumulativeHeldBtc": 1318614.8
+      },
+      {
+        "t": "2025-08-28",
+        "netFlowBtc": 1608.1,
+        "cumulativeHeldBtc": 1320222.9
+      },
+      {
+        "t": "2025-08-29",
+        "netFlowBtc": -1125.5,
+        "cumulativeHeldBtc": 1319097.4
+      },
+      {
+        "t": "2025-09-02",
+        "netFlowBtc": 3046.2,
+        "cumulativeHeldBtc": 1322143.6
+      },
+      {
+        "t": "2025-09-03",
+        "netFlowBtc": 2702.3,
+        "cumulativeHeldBtc": 1324845.9
+      },
+      {
+        "t": "2025-09-04",
+        "netFlowBtc": -1994.9,
+        "cumulativeHeldBtc": 1322851
+      },
+      {
+        "t": "2025-09-05",
+        "netFlowBtc": -1445.8,
+        "cumulativeHeldBtc": 1321405.2
+      },
+      {
+        "t": "2025-09-08",
+        "netFlowBtc": 3276.8,
+        "cumulativeHeldBtc": 1324682
+      },
+      {
+        "t": "2025-09-09",
+        "netFlowBtc": 205.2,
+        "cumulativeHeldBtc": 1324887.2
+      },
+      {
+        "t": "2025-09-10",
+        "netFlowBtc": 6648.8,
+        "cumulativeHeldBtc": 1331536
+      },
+      {
+        "t": "2025-09-11",
+        "netFlowBtc": 4849.5,
+        "cumulativeHeldBtc": 1336385.5
+      },
+      {
+        "t": "2025-09-12",
+        "netFlowBtc": 5561.1,
+        "cumulativeHeldBtc": 1341946.6
+      },
+      {
+        "t": "2025-09-15",
+        "netFlowBtc": 2252.5,
+        "cumulativeHeldBtc": 1344199.1
+      },
+      {
+        "t": "2025-09-16",
+        "netFlowBtc": 2532.9,
+        "cumulativeHeldBtc": 1346732
+      },
+      {
+        "t": "2025-09-17",
+        "netFlowBtc": -439.2,
+        "cumulativeHeldBtc": 1346292.8
+      },
+      {
+        "t": "2025-09-18",
+        "netFlowBtc": 1399.7,
+        "cumulativeHeldBtc": 1347692.5
+      },
+      {
+        "t": "2025-09-19",
+        "netFlowBtc": 1900.5,
+        "cumulativeHeldBtc": 1349593
+      },
+      {
+        "t": "2025-09-22",
+        "netFlowBtc": -3148.7,
+        "cumulativeHeldBtc": 1346444.3
+      },
+      {
+        "t": "2025-09-23",
+        "netFlowBtc": -920.6,
+        "cumulativeHeldBtc": 1345523.7
+      },
+      {
+        "t": "2025-09-24",
+        "netFlowBtc": 2151.6,
+        "cumulativeHeldBtc": 1347675.3
+      },
+      {
+        "t": "2025-09-25",
+        "netFlowBtc": -2236.2,
+        "cumulativeHeldBtc": 1345439.1
+      },
+      {
+        "t": "2025-09-26",
+        "netFlowBtc": -3836.3,
+        "cumulativeHeldBtc": 1341602.8
+      },
+      {
+        "t": "2025-09-29",
+        "netFlowBtc": 4617.7,
+        "cumulativeHeldBtc": 1346220.5
+      },
+      {
+        "t": "2025-09-30",
+        "netFlowBtc": 3757.7,
+        "cumulativeHeldBtc": 1349978.2
+      },
+      {
+        "t": "2025-10-01",
+        "netFlowBtc": 5926.3,
+        "cumulativeHeldBtc": 1355904.5
+      },
+      {
+        "t": "2025-10-02",
+        "netFlowBtc": 5287.6,
+        "cumulativeHeldBtc": 1361192.1
+      },
+      {
+        "t": "2025-10-03",
+        "netFlowBtc": 8166.4,
+        "cumulativeHeldBtc": 1369358.5
+      },
+      {
+        "t": "2025-10-06",
+        "netFlowBtc": 9757.2,
+        "cumulativeHeldBtc": 1379115.7
+      },
+      {
+        "t": "2025-10-07",
+        "netFlowBtc": 7017.3,
+        "cumulativeHeldBtc": 1386133
+      },
+      {
+        "t": "2025-10-08",
+        "netFlowBtc": 3629.4,
+        "cumulativeHeldBtc": 1389762.4
+      },
+      {
+        "t": "2025-10-09",
+        "netFlowBtc": 1603.7,
+        "cumulativeHeldBtc": 1391366.1
+      },
+      {
+        "t": "2025-10-10",
+        "netFlowBtc": -37,
+        "cumulativeHeldBtc": 1391329.1
+      },
+      {
+        "t": "2025-10-13",
+        "netFlowBtc": -2835.7,
+        "cumulativeHeldBtc": 1388493.4
+      },
+      {
+        "t": "2025-10-14",
+        "netFlowBtc": 891.4,
+        "cumulativeHeldBtc": 1389384.8
+      },
+      {
+        "t": "2025-10-15",
+        "netFlowBtc": -920.5,
+        "cumulativeHeldBtc": 1388464.3
+      },
+      {
+        "t": "2025-10-16",
+        "netFlowBtc": -4792.2,
+        "cumulativeHeldBtc": 1383672.1
+      },
+      {
+        "t": "2025-10-17",
+        "netFlowBtc": -3388.4,
+        "cumulativeHeldBtc": 1380283.7
+      },
+      {
+        "t": "2025-10-20",
+        "netFlowBtc": -371.7,
+        "cumulativeHeldBtc": 1379912
+      },
+      {
+        "t": "2025-10-21",
+        "netFlowBtc": 4315.6,
+        "cumulativeHeldBtc": 1384227.6
+      },
+      {
+        "t": "2025-10-22",
+        "netFlowBtc": -935,
+        "cumulativeHeldBtc": 1383292.6
+      },
+      {
+        "t": "2025-10-23",
+        "netFlowBtc": 188.6,
+        "cumulativeHeldBtc": 1383481.2
+      },
+      {
+        "t": "2025-10-24",
+        "netFlowBtc": 823,
+        "cumulativeHeldBtc": 1384304.2
+      },
+      {
+        "t": "2025-10-27",
+        "netFlowBtc": 1303.6,
+        "cumulativeHeldBtc": 1385607.8
+      },
+      {
+        "t": "2025-10-28",
+        "netFlowBtc": 1773.5,
+        "cumulativeHeldBtc": 1387381.3
+      },
+      {
+        "t": "2025-10-29",
+        "netFlowBtc": -4168.3,
+        "cumulativeHeldBtc": 1383213
+      },
+      {
+        "t": "2025-10-30",
+        "netFlowBtc": -4437.2,
+        "cumulativeHeldBtc": 1378775.8
+      },
+      {
+        "t": "2025-10-31",
+        "netFlowBtc": -1769.1,
+        "cumulativeHeldBtc": 1377006.7
+      },
+      {
+        "t": "2025-11-03",
+        "netFlowBtc": -1686.2,
+        "cumulativeHeldBtc": 1375320.5
+      },
+      {
+        "t": "2025-11-04",
+        "netFlowBtc": -5316.6,
+        "cumulativeHeldBtc": 1370003.9
+      },
+      {
+        "t": "2025-11-05",
+        "netFlowBtc": -1349.4,
+        "cumulativeHeldBtc": 1368654.5
+      },
+      {
+        "t": "2025-11-06",
+        "netFlowBtc": 2309.3,
+        "cumulativeHeldBtc": 1370963.8
+      },
+      {
+        "t": "2025-11-07",
+        "netFlowBtc": -5513.3,
+        "cumulativeHeldBtc": 1365450.5
+      },
+      {
+        "t": "2025-11-10",
+        "netFlowBtc": 11.5,
+        "cumulativeHeldBtc": 1365462
+      },
+      {
+        "t": "2025-11-11",
+        "netFlowBtc": 4945.2,
+        "cumulativeHeldBtc": 1370407.2
+      },
+      {
+        "t": "2025-11-12",
+        "netFlowBtc": -2699.5,
+        "cumulativeHeldBtc": 1367707.7
+      },
+      {
+        "t": "2025-11-13",
+        "netFlowBtc": -8525.6,
+        "cumulativeHeldBtc": 1359182.1
+      },
+      {
+        "t": "2025-11-14",
+        "netFlowBtc": -4937,
+        "cumulativeHeldBtc": 1354245.1
+      },
+      {
+        "t": "2025-11-17",
+        "netFlowBtc": -2703.1,
+        "cumulativeHeldBtc": 1351542
+      },
+      {
+        "t": "2025-11-18",
+        "netFlowBtc": -4048.1,
+        "cumulativeHeldBtc": 1347493.9
+      },
+      {
+        "t": "2025-11-19",
+        "netFlowBtc": 810.9,
+        "cumulativeHeldBtc": 1348304.8
+      },
+      {
+        "t": "2025-11-20",
+        "netFlowBtc": -9876.1,
+        "cumulativeHeldBtc": 1338428.7
+      },
+      {
+        "t": "2025-11-21",
+        "netFlowBtc": 2757.1,
+        "cumulativeHeldBtc": 1341185.8
+      },
+      {
+        "t": "2025-11-24",
+        "netFlowBtc": -1741,
+        "cumulativeHeldBtc": 1339444.8
+      },
+      {
+        "t": "2025-11-25",
+        "netFlowBtc": 1457.9,
+        "cumulativeHeldBtc": 1340902.7
+      },
+      {
+        "t": "2025-11-26",
+        "netFlowBtc": 241.6,
+        "cumulativeHeldBtc": 1341144.3
+      },
+      {
+        "t": "2025-11-28",
+        "netFlowBtc": 782,
+        "cumulativeHeldBtc": 1341926.3
+      },
+      {
+        "t": "2025-12-01",
+        "netFlowBtc": 94.1,
+        "cumulativeHeldBtc": 1342020.4
+      },
+      {
+        "t": "2025-12-02",
+        "netFlowBtc": 677.7,
+        "cumulativeHeldBtc": 1342698.1
+      },
+      {
+        "t": "2025-12-03",
+        "netFlowBtc": -163.2,
+        "cumulativeHeldBtc": 1342534.9
+      },
+      {
+        "t": "2025-12-04",
+        "netFlowBtc": -2082,
+        "cumulativeHeldBtc": 1340452.9
+      },
+      {
+        "t": "2025-12-05",
+        "netFlowBtc": 594.7,
+        "cumulativeHeldBtc": 1341047.6
+      },
+      {
+        "t": "2025-12-08",
+        "netFlowBtc": -667.7,
+        "cumulativeHeldBtc": 1340379.9
+      },
+      {
+        "t": "2025-12-09",
+        "netFlowBtc": 1675.8,
+        "cumulativeHeldBtc": 1342055.7
+      },
+      {
+        "t": "2025-12-10",
+        "netFlowBtc": 2410.9,
+        "cumulativeHeldBtc": 1344466.6
+      },
+      {
+        "t": "2025-12-11",
+        "netFlowBtc": -842.5,
+        "cumulativeHeldBtc": 1343624.1
+      },
+      {
+        "t": "2025-12-12",
+        "netFlowBtc": 530.8,
+        "cumulativeHeldBtc": 1344154.9
+      },
+      {
+        "t": "2025-12-15",
+        "netFlowBtc": -4056,
+        "cumulativeHeldBtc": 1340098.9
+      },
+      {
+        "t": "2025-12-16",
+        "netFlowBtc": -3207.5,
+        "cumulativeHeldBtc": 1336891.4
+      },
+      {
+        "t": "2025-12-17",
+        "netFlowBtc": 5206.3,
+        "cumulativeHeldBtc": 1342097.7
+      },
+      {
+        "t": "2025-12-18",
+        "netFlowBtc": -1872.7,
+        "cumulativeHeldBtc": 1340225
+      },
+      {
+        "t": "2025-12-19",
+        "netFlowBtc": -1852.4,
+        "cumulativeHeldBtc": 1338372.6
+      },
+      {
+        "t": "2025-12-22",
+        "netFlowBtc": -1604.7,
+        "cumulativeHeldBtc": 1336767.9
+      },
+      {
+        "t": "2025-12-23",
+        "netFlowBtc": -2131.4,
+        "cumulativeHeldBtc": 1334636.5
+      },
+      {
+        "t": "2025-12-24",
+        "netFlowBtc": -2005.2,
+        "cumulativeHeldBtc": 1332631.3
+      },
+      {
+        "t": "2025-12-26",
+        "netFlowBtc": -3163.1,
+        "cumulativeHeldBtc": 1329468.2
+      },
+      {
+        "t": "2025-12-29",
+        "netFlowBtc": -219.7,
+        "cumulativeHeldBtc": 1329248.5
+      },
+      {
+        "t": "2025-12-30",
+        "netFlowBtc": 4075.8,
+        "cumulativeHeldBtc": 1333324.3
+      },
+      {
+        "t": "2025-12-31",
+        "netFlowBtc": -3936.7,
+        "cumulativeHeldBtc": 1329387.6
+      },
+      {
+        "t": "2026-01-02",
+        "netFlowBtc": 5311.3,
+        "cumulativeHeldBtc": 1334698.9
+      },
+      {
+        "t": "2026-01-05",
+        "netFlowBtc": 7622.3,
+        "cumulativeHeldBtc": 1342321.2
+      },
+      {
+        "t": "2026-01-06",
+        "netFlowBtc": -2590.5,
+        "cumulativeHeldBtc": 1339730.7
+      },
+      {
+        "t": "2026-01-07",
+        "netFlowBtc": -5185.7,
+        "cumulativeHeldBtc": 1334545
+      },
+      {
+        "t": "2026-01-08",
+        "netFlowBtc": -4369.3,
+        "cumulativeHeldBtc": 1330175.7
+      },
+      {
+        "t": "2026-01-09",
+        "netFlowBtc": -2746.3,
+        "cumulativeHeldBtc": 1327429.4
+      },
+      {
+        "t": "2026-01-12",
+        "netFlowBtc": 1285,
+        "cumulativeHeldBtc": 1328714.4
+      },
+      {
+        "t": "2026-01-13",
+        "netFlowBtc": 8265.9,
+        "cumulativeHeldBtc": 1336980.3
+      },
+      {
+        "t": "2026-01-14",
+        "netFlowBtc": 8848.9,
+        "cumulativeHeldBtc": 1345829.2
+      },
+      {
+        "t": "2026-01-15",
+        "netFlowBtc": 1033.7,
+        "cumulativeHeldBtc": 1346862.9
+      },
+      {
+        "t": "2026-01-16",
+        "netFlowBtc": -4130.4,
+        "cumulativeHeldBtc": 1342732.5
+      },
+      {
+        "t": "2026-01-20",
+        "netFlowBtc": -5183,
+        "cumulativeHeldBtc": 1337549.5
+      },
+      {
+        "t": "2026-01-21",
+        "netFlowBtc": -8023.8,
+        "cumulativeHeldBtc": 1329525.7
+      },
+      {
+        "t": "2026-01-22",
+        "netFlowBtc": -360.3,
+        "cumulativeHeldBtc": 1329165.4
+      },
+      {
+        "t": "2026-01-23",
+        "netFlowBtc": -1156.9,
+        "cumulativeHeldBtc": 1328008.5
+      },
+      {
+        "t": "2026-01-26",
+        "netFlowBtc": 78.5,
+        "cumulativeHeldBtc": 1328087
+      },
+      {
+        "t": "2026-01-27",
+        "netFlowBtc": -1670.3,
+        "cumulativeHeldBtc": 1326416.7
+      },
+      {
+        "t": "2026-01-28",
+        "netFlowBtc": -219.9,
+        "cumulativeHeldBtc": 1326196.8
+      },
+      {
+        "t": "2026-01-29",
+        "netFlowBtc": -9172.3,
+        "cumulativeHeldBtc": 1317024.5
+      },
+      {
+        "t": "2026-01-30",
+        "netFlowBtc": -6027.4,
+        "cumulativeHeldBtc": 1310997.1
+      },
+      {
+        "t": "2026-02-02",
+        "netFlowBtc": 7307.5,
+        "cumulativeHeldBtc": 1318304.6
+      },
+      {
+        "t": "2026-02-03",
+        "netFlowBtc": -3457.1,
+        "cumulativeHeldBtc": 1314847.5
+      },
+      {
+        "t": "2026-02-04",
+        "netFlowBtc": -7204.7,
+        "cumulativeHeldBtc": 1307642.8
+      },
+      {
+        "t": "2026-02-05",
+        "netFlowBtc": -5946.2,
+        "cumulativeHeldBtc": 1301696.6
+      },
+      {
+        "t": "2026-02-06",
+        "netFlowBtc": 5908.1,
+        "cumulativeHeldBtc": 1307604.7
+      },
+      {
+        "t": "2026-02-09",
+        "netFlowBtc": 2061.6,
+        "cumulativeHeldBtc": 1309666.3
+      },
+      {
+        "t": "2026-02-10",
+        "netFlowBtc": 2374.1,
+        "cumulativeHeldBtc": 1312040.4
+      },
+      {
+        "t": "2026-02-11",
+        "netFlowBtc": -4016.3,
+        "cumulativeHeldBtc": 1308024.1
+      },
+      {
+        "t": "2026-02-12",
+        "netFlowBtc": -6124.2,
+        "cumulativeHeldBtc": 1301899.9
+      },
+      {
+        "t": "2026-02-13",
+        "netFlowBtc": 228.1,
+        "cumulativeHeldBtc": 1302128
+      },
+      {
+        "t": "2026-02-17",
+        "netFlowBtc": -1523.8,
+        "cumulativeHeldBtc": 1300604.2
+      },
+      {
+        "t": "2026-02-18",
+        "netFlowBtc": -1976,
+        "cumulativeHeldBtc": 1298628.2
+      },
+      {
+        "t": "2026-02-19",
+        "netFlowBtc": -2495.9,
+        "cumulativeHeldBtc": 1296132.3
+      },
+      {
+        "t": "2026-02-20",
+        "netFlowBtc": 1315.8,
+        "cumulativeHeldBtc": 1297448.1
+      },
+      {
+        "t": "2026-02-23",
+        "netFlowBtc": -3014.1,
+        "cumulativeHeldBtc": 1294434
+      },
+      {
+        "t": "2026-02-24",
+        "netFlowBtc": 3987.9,
+        "cumulativeHeldBtc": 1298421.9
+      },
+      {
+        "t": "2026-02-25",
+        "netFlowBtc": 7910.3,
+        "cumulativeHeldBtc": 1306332.2
+      },
+      {
+        "t": "2026-02-26",
+        "netFlowBtc": 3742,
+        "cumulativeHeldBtc": 1310074.2
+      },
+      {
+        "t": "2026-02-27",
+        "netFlowBtc": -407.6,
+        "cumulativeHeldBtc": 1309666.6
+      },
+      {
+        "t": "2026-03-02",
+        "netFlowBtc": 6967.5,
+        "cumulativeHeldBtc": 1316634.1
+      },
+      {
+        "t": "2026-03-03",
+        "netFlowBtc": 3274.4,
+        "cumulativeHeldBtc": 1319908.5
+      },
+      {
+        "t": "2026-03-04",
+        "netFlowBtc": 6766.3,
+        "cumulativeHeldBtc": 1326674.8
+      },
+      {
+        "t": "2026-03-05",
+        "netFlowBtc": -3132.3,
+        "cumulativeHeldBtc": 1323542.5
+      },
+      {
+        "t": "2026-03-06",
+        "netFlowBtc": -4921.9,
+        "cumulativeHeldBtc": 1318620.6
+      },
+      {
+        "t": "2026-03-09",
+        "netFlowBtc": 2534.1,
+        "cumulativeHeldBtc": 1321154.7
+      },
+      {
+        "t": "2026-03-10",
+        "netFlowBtc": 3606.9,
+        "cumulativeHeldBtc": 1324761.6
+      },
+      {
+        "t": "2026-03-11",
+        "netFlowBtc": 1647.5,
+        "cumulativeHeldBtc": 1326409.1
+      },
+      {
+        "t": "2026-03-12",
+        "netFlowBtc": 766.4,
+        "cumulativeHeldBtc": 1327175.5
+      },
+      {
+        "t": "2026-03-13",
+        "netFlowBtc": 2559.1,
+        "cumulativeHeldBtc": 1329734.6
+      },
+      {
+        "t": "2026-03-16",
+        "netFlowBtc": 2738.3,
+        "cumulativeHeldBtc": 1332472.9
+      },
+      {
+        "t": "2026-03-17",
+        "netFlowBtc": 2663.7,
+        "cumulativeHeldBtc": 1335136.6
+      },
+      {
+        "t": "2026-03-18",
+        "netFlowBtc": -2211.6,
+        "cumulativeHeldBtc": 1332925
+      },
+      {
+        "t": "2026-03-19",
+        "netFlowBtc": -1265.7,
+        "cumulativeHeldBtc": 1331659.3
+      },
+      {
+        "t": "2026-03-20",
+        "netFlowBtc": -743.8,
+        "cumulativeHeldBtc": 1330915.5
+      },
+      {
+        "t": "2026-03-23",
+        "netFlowBtc": 2464.3,
+        "cumulativeHeldBtc": 1333379.8
+      },
+      {
+        "t": "2026-03-24",
+        "netFlowBtc": -939.5,
+        "cumulativeHeldBtc": 1332440.3
+      },
+      {
+        "t": "2026-03-25",
+        "netFlowBtc": 110.6,
+        "cumulativeHeldBtc": 1332550.9
+      },
+      {
+        "t": "2026-03-26",
+        "netFlowBtc": -2402.5,
+        "cumulativeHeldBtc": 1330148.4
+      },
+      {
+        "t": "2026-03-27",
+        "netFlowBtc": -3278.6,
+        "cumulativeHeldBtc": 1326869.8
+      },
+      {
+        "t": "2026-03-30",
+        "netFlowBtc": 1052.2,
+        "cumulativeHeldBtc": 1327922
+      },
+      {
+        "t": "2026-03-31",
+        "netFlowBtc": 1761.8,
+        "cumulativeHeldBtc": 1329683.8
+      },
+      {
+        "t": "2026-04-01",
+        "netFlowBtc": -2546.3,
+        "cumulativeHeldBtc": 1327137.5
+      },
+      {
+        "t": "2026-04-02",
+        "netFlowBtc": 132.2,
+        "cumulativeHeldBtc": 1327269.7
+      },
+      {
+        "t": "2026-04-06",
+        "netFlowBtc": 6832.2,
+        "cumulativeHeldBtc": 1334101.9
+      },
+      {
+        "t": "2026-04-07",
+        "netFlowBtc": -2310.6,
+        "cumulativeHeldBtc": 1331791.3
+      },
+      {
+        "t": "2026-04-08",
+        "netFlowBtc": -1305.1,
+        "cumulativeHeldBtc": 1330486.2
+      },
+      {
+        "t": "2026-04-09",
+        "netFlowBtc": 5034.5,
+        "cumulativeHeldBtc": 1335520.7
+      },
+      {
+        "t": "2026-04-10",
+        "netFlowBtc": 3578,
+        "cumulativeHeldBtc": 1339098.7
+      },
+      {
+        "t": "2026-04-13",
+        "netFlowBtc": -4112,
+        "cumulativeHeldBtc": 1334986.7
+      },
+      {
+        "t": "2026-04-14",
+        "netFlowBtc": 5522.1,
+        "cumulativeHeldBtc": 1340508.8
+      },
+      {
+        "t": "2026-04-15",
+        "netFlowBtc": 2508.2,
+        "cumulativeHeldBtc": 1343017
+      },
+      {
+        "t": "2026-04-16",
+        "netFlowBtc": 348.9,
+        "cumulativeHeldBtc": 1343365.9
+      },
+      {
+        "t": "2026-04-17",
+        "netFlowBtc": 8832,
+        "cumulativeHeldBtc": 1352197.9
+      },
+      {
+        "t": "2026-04-20",
+        "netFlowBtc": 3227.9,
+        "cumulativeHeldBtc": 1355425.8
+      },
+      {
+        "t": "2026-04-21",
+        "netFlowBtc": 155.5,
+        "cumulativeHeldBtc": 1355581.3
+      },
+      {
+        "t": "2026-04-22",
+        "netFlowBtc": 4398,
+        "cumulativeHeldBtc": 1359979.3
+      },
+      {
+        "t": "2026-04-23",
+        "netFlowBtc": 2855.3,
+        "cumulativeHeldBtc": 1362834.6
+      },
+      {
+        "t": "2026-04-24",
+        "netFlowBtc": 184,
+        "cumulativeHeldBtc": 1363018.6
+      },
+      {
+        "t": "2026-04-27",
+        "netFlowBtc": -3346.5,
+        "cumulativeHeldBtc": 1359672.1
+      },
+      {
+        "t": "2026-04-28",
+        "netFlowBtc": -1159.3,
+        "cumulativeHeldBtc": 1358512.8
+      },
+      {
+        "t": "2026-04-29",
+        "netFlowBtc": -1802.3,
+        "cumulativeHeldBtc": 1356710.5
+      },
+      {
+        "t": "2026-04-30",
+        "netFlowBtc": 310.1,
+        "cumulativeHeldBtc": 1357020.6
+      },
+      {
+        "t": "2026-05-01",
+        "netFlowBtc": 8255.7,
+        "cumulativeHeldBtc": 1365276.3
+      },
+      {
+        "t": "2026-05-04",
+        "netFlowBtc": 6777.2,
+        "cumulativeHeldBtc": 1372053.5
+      },
+      {
+        "t": "2026-05-05",
+        "netFlowBtc": 5853.8,
+        "cumulativeHeldBtc": 1377907.3
+      },
+      {
+        "t": "2026-05-06",
+        "netFlowBtc": 570.9,
+        "cumulativeHeldBtc": 1378478.2
+      },
+      {
+        "t": "2026-05-07",
+        "netFlowBtc": -3297,
+        "cumulativeHeldBtc": 1375181.2
+      },
+      {
+        "t": "2026-05-08",
+        "netFlowBtc": -1820.9,
+        "cumulativeHeldBtc": 1373360.3
+      },
+      {
+        "t": "2026-05-11",
+        "netFlowBtc": 331.1,
+        "cumulativeHeldBtc": 1373691.4
+      },
+      {
+        "t": "2026-05-12",
+        "netFlowBtc": -2854.2,
+        "cumulativeHeldBtc": 1370837.2
+      },
+      {
+        "t": "2026-05-13",
+        "netFlowBtc": -7831.9,
+        "cumulativeHeldBtc": 1363005.3
+      },
+      {
+        "t": "2026-05-14",
+        "netFlowBtc": 1656,
+        "cumulativeHeldBtc": 1364661.3
+      },
+      {
+        "t": "2026-05-15",
+        "netFlowBtc": -3582.2,
+        "cumulativeHeldBtc": 1361079.1
+      },
+      {
+        "t": "2026-05-18",
+        "netFlowBtc": -8378.8,
+        "cumulativeHeldBtc": 1352700.3
+      },
+      {
+        "t": "2026-05-19",
+        "netFlowBtc": -4302.9,
+        "cumulativeHeldBtc": 1348397.4
+      },
+      {
+        "t": "2026-05-20",
+        "netFlowBtc": -918.5,
+        "cumulativeHeldBtc": 1347478.9
+      },
+      {
+        "t": "2026-05-21",
+        "netFlowBtc": -1302.6,
+        "cumulativeHeldBtc": 1346176.3
+      },
+      {
+        "t": "2026-05-22",
+        "netFlowBtc": -1356.8,
+        "cumulativeHeldBtc": 1344819.5
+      },
+      {
+        "t": "2026-05-26",
+        "netFlowBtc": -4316.5,
+        "cumulativeHeldBtc": 1340503
+      },
+      {
+        "t": "2026-05-27",
+        "netFlowBtc": -9672.5,
+        "cumulativeHeldBtc": 1330830.5
+      },
+      {
+        "t": "2026-05-28",
+        "netFlowBtc": -3003.4,
+        "cumulativeHeldBtc": 1327827.1
+      },
+      {
+        "t": "2026-05-29",
+        "netFlowBtc": -1703.9,
+        "cumulativeHeldBtc": 1326123.2
+      },
+      {
+        "t": "2026-06-01",
+        "netFlowBtc": -6576,
+        "cumulativeHeldBtc": 1319547.2
+      },
+      {
+        "t": "2026-06-02",
+        "netFlowBtc": -7277.9,
+        "cumulativeHeldBtc": 1312269.3
+      },
+      {
+        "t": "2026-06-03",
+        "netFlowBtc": -5948.1,
+        "cumulativeHeldBtc": 1306321.2
+      },
+      {
+        "t": "2026-06-04",
+        "netFlowBtc": 50,
+        "cumulativeHeldBtc": 1306371.2
+      },
+      {
+        "t": "2026-06-05",
+        "netFlowBtc": -5104,
+        "cumulativeHeldBtc": 1301267.2
+      },
+      {
+        "t": "2026-06-08",
+        "netFlowBtc": -1444.5,
+        "cumulativeHeldBtc": 1299822.7
+      },
+      {
+        "t": "2026-06-09",
+        "netFlowBtc": -1226.8,
+        "cumulativeHeldBtc": 1298595.9
+      },
+      {
+        "t": "2026-06-10",
+        "netFlowBtc": -3470,
+        "cumulativeHeldBtc": 1295125.9
+      },
+      {
+        "t": "2026-06-11",
+        "netFlowBtc": -307.6,
+        "cumulativeHeldBtc": 1294818.3
+      },
+      {
+        "t": "2026-06-12",
+        "netFlowBtc": 1351.7,
+        "cumulativeHeldBtc": 1296170
+      },
+      {
+        "t": "2026-06-15",
+        "netFlowBtc": -973.9,
+        "cumulativeHeldBtc": 1295196.1
+      },
+      {
+        "t": "2026-06-16",
+        "netFlowBtc": 153.9,
+        "cumulativeHeldBtc": 1295350
+      },
+      {
+        "t": "2026-06-17",
+        "netFlowBtc": -1252.8,
+        "cumulativeHeldBtc": 1294097.2
+      },
+      {
+        "t": "2026-06-18",
+        "netFlowBtc": -1407.8,
+        "cumulativeHeldBtc": 1292689.4
+      },
+      {
+        "t": "2026-06-22",
+        "netFlowBtc": -1080.1,
+        "cumulativeHeldBtc": 1291609.3
+      },
+      {
+        "t": "2026-06-23",
+        "netFlowBtc": -1779.5,
+        "cumulativeHeldBtc": 1289829.8
+      },
+      {
+        "t": "2026-06-24",
+        "netFlowBtc": -7485.6,
+        "cumulativeHeldBtc": 1282344.2
+      },
+      {
+        "t": "2026-06-25",
+        "netFlowBtc": -11342.3,
+        "cumulativeHeldBtc": 1271001.9
+      },
+      {
+        "t": "2026-06-26",
+        "netFlowBtc": -7444.4,
+        "cumulativeHeldBtc": 1263557.5
+      },
+      {
+        "t": "2026-06-29",
+        "netFlowBtc": -3882.6,
+        "cumulativeHeldBtc": 1259674.9
+      },
+      {
+        "t": "2026-06-30",
+        "netFlowBtc": -3701.6,
+        "cumulativeHeldBtc": 1255973.3
+      },
+      {
+        "t": "2026-07-01",
+        "netFlowBtc": -5032.9,
+        "cumulativeHeldBtc": 1250940.4
+      },
+      {
+        "t": "2026-07-02",
+        "netFlowBtc": 3727.2,
+        "cumulativeHeldBtc": 1254667.6
+      },
+      {
+        "t": "2026-07-06",
+        "netFlowBtc": 4179.5,
+        "cumulativeHeldBtc": 1258847.1
+      },
+      {
+        "t": "2026-07-07",
+        "netFlowBtc": 335.9,
+        "cumulativeHeldBtc": 1259183
+      },
+      {
+        "t": "2026-07-08",
+        "netFlowBtc": -1341.5,
+        "cumulativeHeldBtc": 1257841.5
+      },
+      {
+        "t": "2026-07-09",
+        "netFlowBtc": -1530.9,
+        "cumulativeHeldBtc": 1256310.6
+      },
+      {
+        "t": "2026-07-10",
+        "netFlowBtc": 1430.7,
+        "cumulativeHeldBtc": 1257741.3
+      },
+      {
+        "t": "2026-07-13",
+        "netFlowBtc": -6662.5,
+        "cumulativeHeldBtc": 1251078.8
+      },
+      {
+        "t": "2026-07-14",
+        "netFlowBtc": 2909.6,
+        "cumulativeHeldBtc": 1253988.4
+      },
+      {
+        "t": "2026-07-15",
+        "netFlowBtc": 1657.9,
+        "cumulativeHeldBtc": 1255646.3
+      },
+      {
+        "t": "2026-07-16",
+        "netFlowBtc": 1222.3,
+        "cumulativeHeldBtc": 1256868.6
+      },
+      {
+        "t": "2026-07-17",
+        "netFlowBtc": 2074,
+        "cumulativeHeldBtc": 1258942.6
+      },
+      {
+        "t": "2026-07-20",
+        "netFlowBtc": 3506.4,
+        "cumulativeHeldBtc": 1262449
+      },
+      {
+        "t": "2026-07-21",
+        "netFlowBtc": 3116.1,
+        "cumulativeHeldBtc": 1265565.1
+      },
+      {
+        "t": "2026-07-22",
+        "netFlowBtc": 1038.9,
+        "cumulativeHeldBtc": 1266604
+      },
+      {
+        "t": "2026-07-23",
+        "netFlowBtc": -3406.8,
+        "cumulativeHeldBtc": 1263197.2
+      },
+      {
+        "t": "2026-07-24",
+        "netFlowBtc": -3690.9,
+        "cumulativeHeldBtc": 1259506.3
+      },
+      {
+        "t": "2026-07-27",
+        "netFlowBtc": -177.5,
+        "cumulativeHeldBtc": 1259328.8
+      },
+      {
+        "t": "2026-07-28",
+        "netFlowBtc": -780.1,
+        "cumulativeHeldBtc": 1258548.7
+      },
+      {
+        "t": "2026-07-29",
+        "netFlowBtc": 502.6,
+        "cumulativeHeldBtc": 1259051.3
+      },
+      {
+        "t": "2026-07-30",
+        "netFlowBtc": 3648,
+        "cumulativeHeldBtc": 1262699.3
+      },
+      {
+        "t": "2026-07-31",
+        "netFlowBtc": -4100.7,
+        "cumulativeHeldBtc": 1258598.6
+      },
+      {
+        "t": "2026-08-03",
+        "netFlowBtc": 2679.3,
+        "cumulativeHeldBtc": 1261277.9
+      },
+      {
+        "t": "2026-08-04",
+        "netFlowBtc": 3332.7,
+        "cumulativeHeldBtc": 1264610.6
+      },
+      {
+        "t": "2026-08-05",
+        "netFlowBtc": 3815.5,
+        "cumulativeHeldBtc": 1268426.1
+      },
+      {
+        "t": "2026-08-06",
+        "netFlowBtc": 1989.2,
+        "cumulativeHeldBtc": 1270415.3
+      },
+      {
+        "t": "2026-08-07",
+        "netFlowBtc": 1537.6,
+        "cumulativeHeldBtc": 1271952.9
+      },
+      {
+        "t": "2026-08-10",
+        "netFlowBtc": -2229.6,
+        "cumulativeHeldBtc": 1269723.3
+      },
+      {
+        "t": "2026-08-11",
+        "netFlowBtc": 76.7,
+        "cumulativeHeldBtc": 1269800
+      },
+      {
+        "t": "2026-08-12",
+        "netFlowBtc": -961.4,
+        "cumulativeHeldBtc": 1268838.6
+      },
+      {
+        "t": "2026-08-13",
+        "netFlowBtc": -2067.8,
+        "cumulativeHeldBtc": 1266770.8
+      },
+      {
+        "t": "2026-08-14",
+        "netFlowBtc": -908.4,
+        "cumulativeHeldBtc": 1265862.4
+      },
+      {
+        "t": "2026-08-17",
+        "netFlowBtc": 4735.3,
+        "cumulativeHeldBtc": 1270597.7
+      },
+      {
+        "t": "2026-08-18",
+        "netFlowBtc": 2934.7,
+        "cumulativeHeldBtc": 1273532.4
+      },
+      {
+        "t": "2026-08-19",
+        "netFlowBtc": 7995.8,
+        "cumulativeHeldBtc": 1281528.2
+      },
+      {
+        "t": "2026-08-20",
+        "netFlowBtc": 8751,
+        "cumulativeHeldBtc": 1290279.2
+      },
+      {
+        "t": "2026-08-21",
+        "netFlowBtc": 4210.9,
+        "cumulativeHeldBtc": 1294490.1
+      },
+      {
+        "t": "2026-08-24",
+        "netFlowBtc": 4344.8,
+        "cumulativeHeldBtc": 1298834.9
+      },
+      {
+        "t": "2026-08-25",
+        "netFlowBtc": 3979.7,
+        "cumulativeHeldBtc": 1302814.6
+      },
+      {
+        "t": "2026-08-26",
+        "netFlowBtc": 2957.1,
+        "cumulativeHeldBtc": 1305771.7
+      },
+      {
+        "t": "2026-08-27",
+        "netFlowBtc": 3065.9,
+        "cumulativeHeldBtc": 1308837.6
+      },
+      {
+        "t": "2026-08-28",
+        "netFlowBtc": -2515.2,
+        "cumulativeHeldBtc": 1306322.4
+      },
+      {
+        "t": "2026-08-31",
+        "netFlowBtc": 2789.3,
+        "cumulativeHeldBtc": 1309111.7
+      },
+      {
+        "t": "2026-09-01",
+        "netFlowBtc": -3010.8,
+        "cumulativeHeldBtc": 1306100.9
+      },
+      {
+        "t": "2026-09-02",
+        "netFlowBtc": 1306,
+        "cumulativeHeldBtc": 1307406.9
+      },
+      {
+        "t": "2026-09-03",
+        "netFlowBtc": 9453.5,
+        "cumulativeHeldBtc": 1316860.4
+      },
+      {
+        "t": "2026-09-04",
+        "netFlowBtc": 2148.3,
+        "cumulativeHeldBtc": 1319008.7
+      },
+      {
+        "t": "2026-09-08",
+        "netFlowBtc": -589.2,
+        "cumulativeHeldBtc": 1318419.5
+      },
+      {
+        "t": "2026-09-09",
+        "netFlowBtc": -1532.3,
+        "cumulativeHeldBtc": 1316887.2
+      },
+      {
+        "t": "2026-09-10",
+        "netFlowBtc": -3611.7,
+        "cumulativeHeldBtc": 1313275.5
+      },
+      {
+        "t": "2026-09-11",
+        "netFlowBtc": -172.5,
+        "cumulativeHeldBtc": 1313103
+      },
+      {
+        "t": "2026-09-14",
+        "netFlowBtc": 2081.2,
+        "cumulativeHeldBtc": 1315184.2
+      },
+      {
+        "t": "2026-09-15",
+        "netFlowBtc": -5761.8,
+        "cumulativeHeldBtc": 1309422.4
+      },
+      {
+        "t": "2026-09-16",
+        "netFlowBtc": -3913.5,
+        "cumulativeHeldBtc": 1305508.9
+      },
+      {
+        "t": "2026-09-17",
+        "netFlowBtc": 2094.8,
+        "cumulativeHeldBtc": 1307603.7
+      },
+      {
+        "t": "2026-09-18",
+        "netFlowBtc": 5667.9,
+        "cumulativeHeldBtc": 1313271.6
+      },
+      {
+        "t": "2026-09-21",
+        "netFlowBtc": 12312.6,
+        "cumulativeHeldBtc": 1325584.2
+      },
+      {
+        "t": "2026-09-22",
+        "netFlowBtc": 8252.2,
+        "cumulativeHeldBtc": 1333836.4
+      },
+      {
+        "t": "2026-09-23",
+        "netFlowBtc": 4025.1,
+        "cumulativeHeldBtc": 1337861.5
+      },
+      {
+        "t": "2026-09-24",
+        "netFlowBtc": 2259.9,
+        "cumulativeHeldBtc": 1340121.4
+      },
+      {
+        "t": "2026-09-25",
+        "netFlowBtc": 1594,
+        "cumulativeHeldBtc": 1341715.4
+      },
+      {
+        "t": "2026-09-28",
+        "netFlowBtc": 367.1,
+        "cumulativeHeldBtc": 1342082.5
+      },
+      {
+        "t": "2026-09-29",
+        "netFlowBtc": 793.1,
+        "cumulativeHeldBtc": 1342875.6
+      },
+      {
+        "t": "2026-09-30",
+        "netFlowBtc": -1778.1,
+        "cumulativeHeldBtc": 1341097.5
+      },
+      {
+        "t": "2026-10-01",
+        "netFlowBtc": 1228.9,
+        "cumulativeHeldBtc": 1342326.4
+      },
+      {
+        "t": "2026-10-02",
+        "netFlowBtc": 2237.7,
+        "cumulativeHeldBtc": 1344564.1
+      },
+      {
+        "t": "2026-10-05",
+        "netFlowBtc": -1039.5,
+        "cumulativeHeldBtc": 1343524.6
+      },
+      {
+        "t": "2026-10-06",
+        "netFlowBtc": 1385.1,
+        "cumulativeHeldBtc": 1344909.7
+      },
+      {
+        "t": "2026-10-07",
+        "netFlowBtc": -5668.1,
+        "cumulativeHeldBtc": 1339241.6
+      },
+      {
+        "t": "2026-10-08",
+        "netFlowBtc": -498.3,
+        "cumulativeHeldBtc": 1338743.3
+      },
+      {
+        "t": "2026-10-09",
+        "netFlowBtc": 0,
+        "cumulativeHeldBtc": 1338743.3
+      },
+      {
+        "t": "2026-10-12",
+        "netFlowBtc": -23.3,
+        "cumulativeHeldBtc": 1338720
+      },
+      {
+        "t": "2026-10-13",
+        "netFlowBtc": 0,
+        "cumulativeHeldBtc": 1338720
+      },
+      {
+        "t": "2026-10-14",
+        "netFlowBtc": 26.5,
+        "cumulativeHeldBtc": 1338746.5
+      },
+      {
+        "t": "2026-10-15",
+        "netFlowBtc": -93.2,
+        "cumulativeHeldBtc": 1338653.3
+      },
+      {
+        "t": "2026-10-16",
+        "netFlowBtc": 0,
+        "cumulativeHeldBtc": 1338653.3
+      },
+      {
+        "t": "2026-10-19",
+        "netFlowBtc": -669.4,
+        "cumulativeHeldBtc": 1337983.9
+      },
+      {
+        "t": "2026-10-20",
+        "netFlowBtc": -125.8,
+        "cumulativeHeldBtc": 1337858.1
+      },
+      {
+        "t": "2026-10-21",
+        "netFlowBtc": 929.6,
+        "cumulativeHeldBtc": 1338787.7
+      },
+      {
+        "t": "2026-10-22",
+        "netFlowBtc": -1979.3,
+        "cumulativeHeldBtc": 1336808.4
+      },
+      {
+        "t": "2026-10-23",
+        "netFlowBtc": 0,
+        "cumulativeHeldBtc": 1336808.4
+      },
+      {
+        "t": "2026-10-26",
+        "netFlowBtc": 0,
+        "cumulativeHeldBtc": 1336808.4
+      },
+      {
+        "t": "2026-10-27",
+        "netFlowBtc": 306.2,
+        "cumulativeHeldBtc": 1337114.6
+      },
+      {
+        "t": "2026-10-28",
+        "netFlowBtc": 16.1,
+        "cumulativeHeldBtc": 1337130.7
+      },
+      {
+        "t": "2026-10-29",
+        "netFlowBtc": 1.9,
+        "cumulativeHeldBtc": 1337132.6
+      },
+      {
+        "t": "2026-10-30",
+        "netFlowBtc": -5260.9,
+        "cumulativeHeldBtc": 1331871.7
+      },
+      {
+        "t": "2026-11-02",
+        "netFlowBtc": 85.6,
+        "cumulativeHeldBtc": 1331957.3
+      },
+      {
+        "t": "2026-11-03",
+        "netFlowBtc": -311.6,
+        "cumulativeHeldBtc": 1331645.7
+      },
+      {
+        "t": "2026-11-04",
+        "netFlowBtc": 3571.8,
+        "cumulativeHeldBtc": 1335217.5
+      },
+      {
+        "t": "2026-11-05",
+        "netFlowBtc": -3633.6,
+        "cumulativeHeldBtc": 1331583.9
+      },
+      {
+        "t": "2026-11-06",
+        "netFlowBtc": -112.5,
+        "cumulativeHeldBtc": 1331471.4
+      },
+      {
+        "t": "2026-11-09",
+        "netFlowBtc": -98.9,
+        "cumulativeHeldBtc": 1331372.5
+      },
+      {
+        "t": "2026-11-10",
+        "netFlowBtc": -489.1,
+        "cumulativeHeldBtc": 1330883.4
+      },
+      {
+        "t": "2026-11-11",
+        "netFlowBtc": -527.3,
+        "cumulativeHeldBtc": 1330356.1
+      },
+      {
+        "t": "2026-11-12",
+        "netFlowBtc": -691.8,
+        "cumulativeHeldBtc": 1329664.3
+      },
+      {
+        "t": "2026-11-13",
+        "netFlowBtc": -587.1,
+        "cumulativeHeldBtc": 1329077.2
+      },
+      {
+        "t": "2026-11-16",
+        "netFlowBtc": -1024.5,
+        "cumulativeHeldBtc": 1328052.7
+      },
+      {
+        "t": "2026-11-17",
+        "netFlowBtc": -499.4,
+        "cumulativeHeldBtc": 1327553.3
+      },
+      {
+        "t": "2026-11-18",
+        "netFlowBtc": -2427.2,
+        "cumulativeHeldBtc": 1325126.1
+      },
+      {
+        "t": "2026-11-19",
+        "netFlowBtc": -1441.6,
+        "cumulativeHeldBtc": 1323684.5
+      }
+    ],
+    "source": "spot BTC ETF flows (embedded asset)",
+    "available": true,
+    "completeThrough": "2026-11-19",
+    "granularity": "day",
+    "sourceGranularity": "day",
+    "availableGranularities": [
+      "day",
+      "3day",
+      "week",
+      "month",
+      "year"
+    ],
+    "partialAvailable": false,
+    "includesPartial": false,
+    "pageUrl": "https://kotecharts.com/c/etf-market-cap",
+    "cite": "Kote Charts — \"Spot ETF holdings\", https://kotecharts.com/c/etf-market-cap",
+    "license": "https://kotecharts.com/license"
+  }
+}
