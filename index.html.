@@ -1,1 +1,244 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#090d16">
+<title>Environment Score BTC</title>
+<style>
+:root{--bg:#090d16;--line:#26354a;--muted:#91a0b5;--txt:#edf4ff;--cyan:#67dce9;--green:#49d6a1;--red:#ff7589;--amber:#f3c66b}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(ellipse at 50% -20%,#1d3552,transparent 55%),var(--bg);color:var(--txt);font:14px/1.5 system-ui,Arial}
+.wrap{max-width:1400px;margin:auto;padding:25px}
+.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:24px;gap:12px}
+.brand{display:flex;gap:12px;align-items:center}
+.logo{width:44px;height:44px;border:1px solid #31556b;background:#142b40;border-radius:13px;display:grid;place-items:center;color:var(--cyan);font-size:22px}
+.eyebrow,.kicker{font-size:10px;letter-spacing:2px;color:var(--cyan);font-weight:800}
+.brand h1{font-size:18px;margin:2px 0}
+.pill,.tag,.state{border:1px solid var(--line);background:#121e2e;border-radius:30px;padding:7px 10px;font-size:11px;color:#b9c8d9}
+.panel{background:linear-gradient(145deg,#121e2e,#0d1522);border:1px solid var(--line);border-radius:17px;padding:19px;box-shadow:0 12px 35px #0002}
+.hero{display:grid;grid-template-columns:1.4fr .7fr;gap:14px}
+.heroMain{min-height:220px;position:relative;overflow:hidden}
+.heroMain:after{content:"";position:absolute;width:260px;height:260px;border:1px solid #29435b;border-radius:50%;right:-80px;top:-100px;box-shadow:0 0 0 25px #182d411f,0 0 0 55px #182d4110}
+.title{font-size:clamp(27px,4vw,42px);font-weight:800;letter-spacing:-1.4px;margin:12px 0 7px}
+.desc{color:#aab9cc;max-width:650px}
+.tags{display:flex;gap:8px;flex-wrap:wrap;margin-top:22px}
+.score{text-align:center;display:flex;flex-direction:column;justify-content:space-between}
+.ring{margin:15px auto;width:112px;height:112px;border:3px solid #2a4057;border-radius:50%;display:grid;place-items:center;background:#142337}
+.ring b{font-size:34px}
+.ring small{display:block;font-size:9px;color:var(--muted)}
+.muted{color:var(--muted);font-size:11px}
+.section{margin:23px 2px 10px;font-size:10px;letter-spacing:1.8px;color:var(--muted);font-weight:800}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:13px}
+.metric{min-height:125px}
+.metric label{font-size:11px;color:#b8c7d9;font-weight:700}
+.metric strong{display:block;font-size:25px;margin:12px 0 1px;letter-spacing:-.8px}
+.metric small{font-size:10px;color:var(--muted)}
+.mid,.bottom{display:grid;grid-template-columns:1.2fr .8fr;gap:14px;margin-top:14px}
+.panel h2{font-size:14px;margin:0 0 3px}
+.head{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.factor{padding:11px;border:1px solid #243248;border-radius:11px;margin:9px 0;background:#0e1724}
+.factor b{font-size:12px;display:block}
+.factor span{font-size:11px;color:var(--muted)}
+button{background:#17283d;color:#dce9f8;border:1px solid #30435c;padding:8px 12px;border-radius:8px}
+table{width:100%;border-collapse:collapse;font-size:11px}
+td,th{text-align:left;padding:10px 6px;border-bottom:1px solid #202c3e}
+th{color:var(--muted)}
+.state{padding:4px 7px;font-size:10px}
+.ok{color:var(--green)}
+.bad{color:var(--red)}
+.warn{color:var(--amber)}
+.footer{display:flex;justify-content:space-between;flex-wrap:wrap;color:#687b93;font-size:10px;margin-top:20px}
+@media(max-width:800px){
+.wrap{padding:16px 12px}
+.hero,.mid,.bottom{grid-template-columns:1fr}
+.grid{grid-template-columns:repeat(2,1fr)}
+.score{min-height:200px}
+.top{align-items:flex-start}
+.top>div:last-child{text-align:right}
+}
+@media(max-width:380px){
+.panel{padding:14px}
+.metric strong{font-size:21px}
+}
+</style>
+</head>
+<body>
+<main class="wrap">
 
+<header class="top">
+<div class="brand">
+<div class="logo">₿</div>
+<div>
+<div class="eyebrow">MARKET INTELLIGENCE</div>
+<h1>ENVIRONMENT SCORE <span style="color:var(--cyan)">/ BTC</span></h1>
+</div>
+</div>
+<div>
+<div class="pill" id="connection">● ПОДКЛЮЧЕНИЕ</div>
+<div class="muted" id="updated" style="margin-top:7px">Сбор данных: —</div>
+</div>
+</header>
+
+<section class="hero">
+<div class="panel heroMain">
+<div class="kicker">ТЕКУЩАЯ СРЕДА РЫНКА · BTC</div>
+<div class="title" id="regime">Ожидание данных</div>
+<div class="desc" id="desc">Загружаем реальные показатели из репозитория. Рыночный режим и преимущество сторон появятся после настройки расчётной модели.</div>
+<div class="tags">
+<span class="tag">Направление: не рассчитано</span>
+<span class="tag">Уязвимость: не рассчитана</span>
+<span class="tag">Модель ES-BTC · 0.1</span>
+</div>
+</div>
+<div class="panel score">
+<div class="kicker">ENVIRONMENT SCORE</div>
+<div class="ring"><div><b>—</b><small>/ 100</small></div></div>
+<div class="muted">Модель в разработке.<br>Фиктивный балл не показываем.</div>
+</div>
+</section>
+
+<div class="section">КЛЮЧЕВЫЕ ПОКАЗАТЕЛИ</div>
+<section class="grid">
+<div class="panel metric"><label>MVRV</label><strong id="m-mvrv">—</strong><small>Рыночная / реализованная стоимость</small></div>
+<div class="panel metric"><label>NUPL</label><strong id="m-nupl">—</strong><small>Нереализованная прибыль / убыток</small></div>
+<div class="panel metric"><label>SOPR</label><strong id="m-sopr">—</strong><small>Прибыльность перемещаемых монет</small></div>
+<div class="panel metric"><label>STH / LTH SOPR</label><strong id="m-sth-lth-sopr">—</strong><small>Кратко- и долгосрочные держатели</small></div>
+<div class="panel metric"><label>ПОТОКИ ETF</label><strong id="m-etf-flows">—</strong><small>Последний дневной поток, BTC</small></div>
+<div class="panel metric"><label>РЕЗЕРВЫ БИРЖ</label><strong id="m-exchange-reserve">—</strong><small>BTC на отслеживаемых биржах</small></div>
+<div class="panel metric"><label>NETFLOW БИРЖ</label><strong id="m-exchange-netflow">—</strong><small>Приток / отток BTC на биржи</small></div>
+<div class="panel metric"><label>ETF · АКТИВЫ</label><strong id="m-etf-market-cap">—</strong><small>Совокупная стоимость активов ETF</small></div>
+</section>
+
+<section class="mid">
+<div class="panel">
+<div class="head">
+<div>
+<h2>ДИНАМИКА ПОКАЗАТЕЛЕЙ</h2>
+<div class="muted">Последние доступные значения</div>
+</div>
+<button onclick="load()">Обновить ↻</button>
+</div>
+<div class="muted" id="chart" style="padding:35px 10px;text-align:center;border:1px dashed #304158;border-radius:12px">Временные ряды будут выведены после проверки форматов данных.</div>
+</div>
+
+<div class="panel">
+<h2>ЧТЕНИЕ РЫНКА</h2>
+<div class="muted">Факторы будущей модели</div>
+<div class="factor"><b>◈ Ончейн-структура</b><span>MVRV, NUPL и SOPR — прибыльность и поведение участников сети.</span></div>
+<div class="factor"><b>⇄ Институциональный спрос</b><span>Потоки и активы спотовых ETF — отдельный слой спроса.</span></div>
+<div class="factor"><b>⇅ Давление бирж</b><span>Резервы и netflow — возможные изменения доступного предложения.</span></div>
+<div class="factor"><b>◎ Подтверждения и противоречия</b><span>Итоговый режим не должен зависеть от одной метрики.</span></div>
+</div>
+</section>
+
+<section class="bottom">
+<div class="panel">
+<h2>СОСТОЯНИЕ ИСТОЧНИКОВ</h2>
+<div class="muted">Последний запуск сборщика</div>
+<table>
+<thead><tr><th>Источник</th><th>Статус</th><th>Примечание</th></tr></thead>
+<tbody id="sources"><tr><td colspan="3">Загрузка…</td></tr></tbody>
+</table>
+</div>
+<div class="panel">
+<h2>ПОСЛЕДНИЕ ОБНОВЛЕНИЯ</h2>
+<div class="muted">Временные метки данных</div>
+<table>
+<thead><tr><th>Метрика</th><th>Дата</th><th>Статус</th></tr></thead>
+<tbody id="dates"><tr><td colspan="3">Загрузка…</td></tr></tbody>
+</table>
+</div>
+</section>
+
+<footer class="footer">
+<span>ENVIRONMENT SCORE BTC · PERSONAL RESEARCH TERMINAL</span>
+<span>Данные: GitHub / Kote Charts · <span id="checked">—</span></span>
+</footer>
+</main>
+
+<script>
+const base='./data/';
+const ids=['mvrv','nupl','sopr','sth-lth-sopr','etf-flows','exchange-reserve','exchange-netflow','etf-market-cap','fund-flows','etf-flows-vs-new-supply','dxy-vs-btc'];
+const names={'mvrv':'MVRV','nupl':'NUPL','sopr':'SOPR','sth-lth-sopr':'STH/LTH SOPR','etf-flows':'ETF flows','exchange-reserve':'Резервы бирж','exchange-netflow':'Netflow бирж','etf-market-cap':'ETF активы','fund-flows':'Потоки фондов','etf-flows-vs-new-supply':'ETF / новое предложение','dxy-vs-btc':'DXY / BTC'};
+const $=x=>document.getElementById(x);
+const fmt=x=>typeof x==='number'?new Intl.NumberFormat('ru-RU',{maximumFractionDigits:3}).format(x):(x??'—');
+
+async function json(p){
+let r=await fetch(p+'?v='+Date.now(),{cache:'no-store'});
+if(!r.ok)throw Error(r.status);
+return r.json()
+}
+
+function arr(o,d=0){
+if(!o||d>7)return null;
+if(Array.isArray(o))return o.length&&typeof o[0]==='object'&&('t'in o[0]||'time'in o[0]||'date'in o[0])?o:null;
+if(typeof o!=='object')return null;
+for(let k of ['data','series','values','result'])if(o[k]){
+let a=arr(o[k],d+1);
+if(a)return a
+}
+for(let v of Object.values(o)){
+let a=arr(v,d+1);
+if(a)return a
+}
+return null
+}
+
+function value(row){
+if(!row)return null;
+for(let [k,v] of Object.entries(row))
+if(!['t','time','date','timestamp','x'].includes(k)&&typeof v==='number')return [k,v];
+return null
+}
+
+async function load(){
+$('connection').textContent='● ЗАГРУЗКА';
+let latest=null;
+try{latest=await json(base+'latest.json')}catch(e){}
+let count=0,dates=[];
+
+for(let id of ids){
+try{
+let o=await json(base+'kote/'+id+'.latest.json');
+let a=arr(o),row=a?.[a.length-1],v=value(row);
+if(v){
+$('m-'+id).textContent=id==='etf-flows'?fmt(v[1])+' BTC':fmt(v[1]);
+count++;
+dates.push(`<tr><td>${names[id]}</td><td>${row.t||row.time||row.date||o.completeThrough||'—'}</td><td><span class="state ok">Доступно</span></td></tr>`)
+}
+}catch(e){}
+}
+
+$('dates').innerHTML=dates.join('')||'<tr><td colspan="3">Пока нет распознанных временных рядов</td></tr>';
+
+let src=latest?.sources||{};
+let labels={kote_charts:'Kote Charts',binance:'Binance',coinbase:'Coinbase',fred:'FRED'};
+let rows=Object.entries(src).map(([k,v])=>{
+let s=v?.result?.status||(v?.ok?'Доступен':'Ошибка');
+let cls=v?.ok?'ok':'bad';
+if(s==='skipped'){s='Пропущен';cls='warn'}
+return `<tr><td>${labels[k]||k}</td><td><span class="state ${cls}">${s}</span></td><td>${v?.error||v?.result?.reason||'—'}</td></tr>`
+});
+
+$('sources').innerHTML=rows.join('')||'<tr><td colspan="3">Нет статуса источников</td></tr>';
+
+let stamp=latest?.collected_at||'—';
+$('updated').textContent='Сбор данных: '+(stamp==='—'?'—':new Date(stamp).toLocaleString('ru-RU'));
+$('checked').textContent=new Date().toLocaleString('ru-RU');
+$('connection').textContent=count?`● ${count} МЕТРИК ЗАГРУЖЕНО`:'● НЕТ ДАННЫХ';
+$('connection').style.color=count?'var(--green)':'var(--red)';
+
+if(count){
+$('regime').textContent='Данные подключены. Анализ впереди.';
+$('desc').textContent='На панели отображаются последние доступные значения источников. Следующий этап — проверка актуальности, нормализация и расчёт рыночного режима.';
+$('chart').textContent='Источники подключены. Графики появятся после настройки сопоставимых временных рядов.'
+}else{
+$('regime').textContent='Показатели пока не загружены';
+$('desc').textContent='Проверьте доступность файлов data/kote в опубликованном репозитории.'
+}
+}
+load();
+</script>
+</body>
+</html>
