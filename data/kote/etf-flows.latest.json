@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-20",
     "note": null,
     "chart": "etf-flows",
     "range": {
@@ -3598,11 +3598,16 @@
         "t": "2026-11-19",
         "netFlowBtc": -1441.6,
         "cumulativeHeldBtc": 1323684.5
+      },
+      {
+        "t": "2026-11-20",
+        "netFlowBtc": -2048.7,
+        "cumulativeHeldBtc": 1321635.8
       }
     ],
     "source": "spot BTC ETF flows (embedded asset)",
     "available": true,
-    "completeThrough": "2026-11-19",
+    "completeThrough": "2026-11-20",
     "granularity": "day",
     "sourceGranularity": "day",
     "availableGranularities": [

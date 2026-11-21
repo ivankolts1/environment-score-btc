@@ -29056,11 +29056,16 @@
         "t": "2026-11-19",
         "dxy": 103.72,
         "btcUsd": 62984.54
+      },
+      {
+        "t": "2026-11-20",
+        "dxy": 103.65,
+        "btcUsd": 61893.71
       }
     ],
     "source": "public BTC/USD market data + public market data (daily)",
     "marketStart": "2010-08-18",
-    "completeThrough": "2026-11-19",
+    "completeThrough": "2026-11-20",
     "granularity": "day",
     "sourceGranularity": "day",
     "availableGranularities": [

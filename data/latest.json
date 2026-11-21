@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-21T00:53:32.149248+00:00",
+  "collected_at": "2026-11-21T04:49:06.642975+00:00",
   "version": "0.2",
   "sources": {
     "binance": {
@@ -26,7 +26,7 @@
         },
         "sopr": {
           "ok": true,
-          "sha256": "2be71d110fd7796a8d53db1ab7c62e163d4ee56e29592f11539a584270b85c5f"
+          "sha256": "6092a2bebaf709ceccfd984af38838ca0f97159cdcd60b23c5c32b1f439fc995"
         },
         "sth-lth-sopr": {
           "ok": true,
@@ -38,7 +38,7 @@
         },
         "exchange-netflow": {
           "ok": true,
-          "sha256": "563a7f69b8944dc4cab739bf7f88252d15b6e6103c1aca528ce9290acc7b26ba"
+          "sha256": "0a1efff7c630abe3a87fa368341faa9114f8aa52b9c30a3655aa0b8a49ec02bd"
         },
         "exchange-reserve": {
           "ok": true,
@@ -46,23 +46,23 @@
         },
         "fund-flows": {
           "ok": true,
-          "sha256": "3d0509434453cfe08e1876aa69c9c2cababc0de1432ef95c81bcc49702ed4b68"
+          "sha256": "e1b809884b00c537d005b862a55a798bf9bc0cc1b28ee9c80e940ca0214c8403"
         },
         "etf-flows": {
           "ok": true,
-          "sha256": "07c4cf6fde7a41bfcfabb5035bc28bf487a2063f58c18660008e5c8a50a10e3c"
+          "sha256": "cd9e78c9a87340cd706fe8c97da099c4d56579733971e043cb797747cefc2a39"
         },
         "etf-market-cap": {
           "ok": true,
-          "sha256": "493c8cf054262c88f90f47cb13491b9c1e8b0b61795961a3dab528f90a294f09"
+          "sha256": "98f80a3255560802521f2d3d3ebc306b783a507eccf104a9e8c9f1db7bcb6e4f"
         },
         "etf-flows-vs-new-supply": {
           "ok": true,
-          "sha256": "eff26b0ec504355dbe6207ac6c22aabfab249d3153be1dbf2828b415794a7dbc"
+          "sha256": "827a3e483e4bb185de41290d32185d1d67ff8c50a7efb20bebc5545ab03afb8d"
         },
         "dxy-vs-btc": {
           "ok": true,
-          "sha256": "b348b55484b256e34e13f6c6618d36f7d3692dd1b6f3392a1a53efa517042497"
+          "sha256": "0fea8a51894cd2b3ecd8297e31f9832d494b982b9f03af9f0b2fe0e99a4e83fc"
         }
       }
     }
