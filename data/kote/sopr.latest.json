@@ -10,22 +10,22 @@
       "day"
     ],
     "completeThrough": "2026-11-20",
-    "completeThroughTimestamp": "2026-11-21T12:35:00.000Z",
-    "asOf": "2026-11-21T12:38:24.000Z",
+    "completeThroughTimestamp": "2026-11-21T16:30:00.000Z",
+    "asOf": "2026-11-21T16:32:50.000Z",
     "range": {
       "from": "2009-01-03",
       "to": "2026-11-21"
     },
     "watermark": {
-      "lastBlockHeight": 976905,
-      "lastBlockHash": "0000000000000000000212fa8eec49625a310f459cd6dae1855f33fe9dbff9e8",
-      "lastTimestamp": 1795264704
+      "lastBlockHeight": 976925,
+      "lastBlockHash": "00000000000000000001728dd980798abcef406a2facf427e6b555ee87653be0",
+      "lastTimestamp": 1795278770
     },
-    "builtAt": "2026-11-21T12:39:55.221Z",
+    "builtAt": "2026-11-21T16:33:32.058Z",
     "stale": false,
     "price": {
       "degraded": false,
-      "through": "2026-11-21T12:35:00.000Z"
+      "through": "2026-11-21T16:30:00.000Z"
     },
     "partialAvailable": true,
     "includesPartial": true,
@@ -39188,40 +39188,40 @@
       },
       {
         "t": "2026-11-21",
-        "usd": 58557.8,
+        "usd": 60044.9,
         "priceQuality": "composite",
         "partial": true,
-        "sopr": 0.9704251403980653,
+        "sopr": 0.9698389734533521,
         "partialMethod": "trailing24h",
         "estimated": false,
-        "coverage": 0.5267,
-        "asOf": "2026-11-21T12:38:24.000Z",
-        "windowStart": "2026-11-20T12:40:00.000Z",
-        "windowEnd": "2026-11-21T12:40:00.000Z"
+        "coverage": 0.6895,
+        "asOf": "2026-11-21T16:32:50.000Z",
+        "windowStart": "2026-11-20T16:35:00.000Z",
+        "windowEnd": "2026-11-21T16:35:00.000Z"
       }
     ],
     "latest": {
       "t": "2026-11-21",
-      "usd": 58557.8,
+      "usd": 60044.9,
       "priceQuality": "composite",
       "priceSources": 3,
       "partial": true,
-      "sopr": 0.9704251403980653,
+      "sopr": 0.9698389734533521,
       "partialMethod": "trailing24h",
       "estimated": false,
-      "coverage": 0.5267,
-      "asOf": "2026-11-21T12:38:24.000Z",
-      "windowStart": "2026-11-20T12:40:00.000Z",
-      "windowEnd": "2026-11-21T12:40:00.000Z"
+      "coverage": 0.6895,
+      "asOf": "2026-11-21T16:32:50.000Z",
+      "windowStart": "2026-11-20T16:35:00.000Z",
+      "windowEnd": "2026-11-21T16:35:00.000Z"
     },
     "partialInfo": {
       "t": "2026-11-21",
       "method": "trailing24h",
       "estimated": false,
-      "coverage": 0.5267,
-      "asOf": "2026-11-21T12:38:24.000Z",
-      "windowStart": "2026-11-20T12:40:00.000Z",
-      "windowEnd": "2026-11-21T12:40:00.000Z"
+      "coverage": 0.6895,
+      "asOf": "2026-11-21T16:32:50.000Z",
+      "windowStart": "2026-11-20T16:35:00.000Z",
+      "windowEnd": "2026-11-21T16:35:00.000Z"
     },
     "pageUrl": "https://kotecharts.com/c/sopr",
     "cite": "Kote Charts — \"SOPR\", https://kotecharts.com/c/sopr",
