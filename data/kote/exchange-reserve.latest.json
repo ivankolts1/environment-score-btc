@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-21",
     "meta": {
       "enabled": true,
       "sinceDate": "2009-01-03",
@@ -32674,10 +32674,15 @@
         "t": "2026-11-19",
         "usd": 62984.54,
         "exReserveBtc": 3290208
+      },
+      {
+        "t": "2026-11-20",
+        "usd": 61893.71,
+        "exReserveBtc": 3287958
       }
     ],
     "source": "UTXO cost-basis pass × labeled entity sets (address labels; per-tx netted)",
-    "completeThrough": "2026-11-19",
+    "completeThrough": "2026-11-20",
     "granularity": "day",
     "sourceGranularity": "day",
     "availableGranularities": [

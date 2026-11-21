@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20T20:43:00.756531+00:00",
+  "collected_at": "2026-11-21T00:53:32.149248+00:00",
   "version": "0.2",
   "sources": {
     "binance": {
@@ -22,31 +22,31 @@
       "result": {
         "mvrv": {
           "ok": true,
-          "sha256": "a64a7660f0043b21f971f02e465ed426824fa7e06dda20ef2244ee5e81744b66"
+          "sha256": "df7e82875466c2cad38b45d9259330f7e8e68629570106b4da1fa054fb97352f"
         },
         "sopr": {
           "ok": true,
-          "sha256": "45890e513bba7a286b545de4e7cdf6350f612243bf3a5debcb09765b7062da35"
+          "sha256": "2be71d110fd7796a8d53db1ab7c62e163d4ee56e29592f11539a584270b85c5f"
         },
         "sth-lth-sopr": {
           "ok": true,
-          "sha256": "1d4383dc981645bd0b0971e63a429fb3731fe9e79a47c2d9c06449e3222db2e3"
+          "sha256": "7948c50857170152bb7872a667ebea16c235621eb9d26df93c9f5f0de4629b90"
         },
         "nupl": {
           "ok": true,
-          "sha256": "fee7f4f3a31c929fa92bfc437615f0dc6bc99faf4840df1791531dff0503c9b4"
+          "sha256": "8c48cef714ef0769916f1e1cab11a2f2b0b779968ba5daeba2908734d1f0a275"
         },
         "exchange-netflow": {
           "ok": true,
-          "sha256": "87b92480eb24505684d95db869b3cfa6bc8ca19be58bc2b5cec3e2dabefaa44e"
+          "sha256": "563a7f69b8944dc4cab739bf7f88252d15b6e6103c1aca528ce9290acc7b26ba"
         },
         "exchange-reserve": {
           "ok": true,
-          "sha256": "1a54f302751f67338910cdb0f6403c7891c6e578300f474db8939a4ac938cfcf"
+          "sha256": "a0db9824b1a95c2933156e4f1a42d3d9db7483c1ecf014849ab698af19f724db"
         },
         "fund-flows": {
           "ok": true,
-          "sha256": "901d5137b9a1751c633656160601ea599a10e72917c97f5c680411d6b89024e0"
+          "sha256": "3d0509434453cfe08e1876aa69c9c2cababc0de1432ef95c81bcc49702ed4b68"
         },
         "etf-flows": {
           "ok": true,
