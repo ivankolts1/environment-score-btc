@@ -10,22 +10,22 @@
       "day"
     ],
     "completeThrough": "2026-11-21",
-    "completeThroughTimestamp": "2026-11-22T16:20:00.000Z",
-    "asOf": "2026-11-22T16:23:02.000Z",
+    "completeThroughTimestamp": "2026-11-22T20:30:00.000Z",
+    "asOf": "2026-11-22T20:34:23.000Z",
     "range": {
       "from": "2009-01-03",
       "to": "2026-11-22"
     },
     "watermark": {
-      "lastBlockHeight": 977074,
-      "lastBlockHash": "000000000000000000007cd31adb9b10f12d662a5636b2467abd32b53478731b",
-      "lastTimestamp": 1795364582
+      "lastBlockHeight": 977100,
+      "lastBlockHash": "00000000000000000000886598c890976f4cd4a493bb1c56d2021e8925525783",
+      "lastTimestamp": 1795379663
     },
-    "builtAt": "2026-11-22T16:23:41.036Z",
+    "builtAt": "2026-11-22T20:35:26.827Z",
     "stale": false,
     "price": {
       "degraded": false,
-      "through": "2026-11-22T16:20:00.000Z"
+      "through": "2026-11-22T20:30:00.000Z"
     },
     "partialAvailable": true,
     "includesPartial": true,
@@ -58775,37 +58775,37 @@
       },
       {
         "t": "2026-11-22",
-        "usd": 60997,
+        "usd": 60627.9,
         "priceQuality": "composite",
         "partial": true,
-        "exInBtc": 26586.817392019988,
-        "exOutBtc": 30222.02084619999,
-        "exNetBtc": -3635.203454180002,
-        "exNetCumBtc": 3286732.22967153,
+        "exInBtc": 21842.803386679996,
+        "exOutBtc": 17828.952005550007,
+        "exNetBtc": 4013.851381129989,
+        "exNetCumBtc": 3286881.9047393585,
         "partialMethod": "trailing24h",
         "estimated": false,
-        "coverage": 0.6827,
-        "asOf": "2026-11-22T16:23:02.000Z",
-        "windowStart": "2026-11-21T16:25:00.000Z",
-        "windowEnd": "2026-11-22T16:25:00.000Z"
+        "coverage": 0.8572,
+        "asOf": "2026-11-22T20:34:23.000Z",
+        "windowStart": "2026-11-21T20:35:00.000Z",
+        "windowEnd": "2026-11-22T20:35:00.000Z"
       }
     ],
     "latest": {
       "t": "2026-11-22",
-      "usd": 60997,
+      "usd": 60627.9,
       "priceQuality": "composite",
       "priceSources": 3,
       "partial": true,
-      "exInBtc": 26586.817392019988,
-      "exOutBtc": 30222.02084619999,
-      "exNetBtc": -3635.203454180002,
-      "exNetCumBtc": 3286732.22967153,
+      "exInBtc": 21842.803386679996,
+      "exOutBtc": 17828.952005550007,
+      "exNetBtc": 4013.851381129989,
+      "exNetCumBtc": 3286881.9047393585,
       "partialMethod": "trailing24h",
       "estimated": false,
-      "coverage": 0.6827,
-      "asOf": "2026-11-22T16:23:02.000Z",
-      "windowStart": "2026-11-21T16:25:00.000Z",
-      "windowEnd": "2026-11-22T16:25:00.000Z"
+      "coverage": 0.8572,
+      "asOf": "2026-11-22T20:34:23.000Z",
+      "windowStart": "2026-11-21T20:35:00.000Z",
+      "windowEnd": "2026-11-22T20:35:00.000Z"
     },
     "meta": {
       "enabled": true,
@@ -58814,7 +58814,7 @@
       "entitySnapshot": {
         "generation": "20260730T085740197Z-78c7c5524342",
         "fingerprint": "sha256:5cc1cc77977d79ec81b6ffd11bdd475e75520982078b8a8d05effe8ea8418e41",
-        "generatedAt": "2026-11-22T16:23:41.036Z",
+        "generatedAt": "2026-11-22T20:35:26.827Z",
         "addresses": {}
       }
     },
@@ -58835,10 +58835,10 @@
       "t": "2026-11-22",
       "method": "trailing24h",
       "estimated": false,
-      "coverage": 0.6827,
-      "asOf": "2026-11-22T16:23:02.000Z",
-      "windowStart": "2026-11-21T16:25:00.000Z",
-      "windowEnd": "2026-11-22T16:25:00.000Z"
+      "coverage": 0.8572,
+      "asOf": "2026-11-22T20:34:23.000Z",
+      "windowStart": "2026-11-21T20:35:00.000Z",
+      "windowEnd": "2026-11-22T20:35:00.000Z"
     },
     "pageUrl": "https://kotecharts.com/c/exchange-netflow",
     "cite": "Kote Charts — \"Exchange netflow\", https://kotecharts.com/c/exchange-netflow",

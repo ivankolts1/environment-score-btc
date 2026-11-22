@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22T16:38:21.113077+00:00",
+  "collected_at": "2026-11-22T20:37:38.948263+00:00",
   "version": "0.2",
   "sources": {
     "binance": {
@@ -26,7 +26,7 @@
         },
         "sopr": {
           "ok": true,
-          "sha256": "6d25ad1f38b4074a71d7abdc73f75288c1e39603d06789d37727f3bf23601eb6"
+          "sha256": "2f2f6604ea3d67441b760eb532ea487cc5a07a70b029b7e6f8217be9c73b03bb"
         },
         "sth-lth-sopr": {
           "ok": true,
@@ -38,7 +38,7 @@
         },
         "exchange-netflow": {
           "ok": true,
-          "sha256": "0e6e930b62cdd1a826c8c3e2f70443ae256cf0a9227d1fdd5a4a79ff2f6243e2"
+          "sha256": "9cf100b14391e022742b8ae772e660a2b3dc86bf39fbb6b2b7c2761a90dfcb81"
         },
         "exchange-reserve": {
           "ok": true,
@@ -46,7 +46,7 @@
         },
         "fund-flows": {
           "ok": true,
-          "sha256": "9d675a0d3207b0ce9e2ffcb46c282ce1777f2150bcbb9fabb124f4e790eb4c8c"
+          "sha256": "0eba6330549223c4fa201a7a2a4aa988a25d5db781ca7969af0534d7c91f60ab"
         },
         "etf-flows": {
           "ok": true,
