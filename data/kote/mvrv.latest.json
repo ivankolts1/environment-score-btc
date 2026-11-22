@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "asOf": "2026-11-21",
+    "asOf": "2026-11-22",
     "chart": "mvrv",
     "range": {
       "from": null,
@@ -29702,11 +29702,16 @@
         "t": "2026-11-20",
         "usd": 61893.71,
         "mvrv": 1.16
+      },
+      {
+        "t": "2026-11-21",
+        "usd": 58786.67,
+        "mvrv": 1.103
       }
     ],
     "source": "public BTC/USD daily close",
     "marketStart": "2010-08-18",
-    "completeThrough": "2026-11-20",
+    "completeThrough": "2026-11-21",
     "granularity": "day",
     "sourceGranularity": "day",
     "availableGranularities": [

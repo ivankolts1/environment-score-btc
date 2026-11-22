@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-22T00:45:40.160426+00:00",
+  "collected_at": "2026-11-22T04:52:23.321811+00:00",
   "version": "0.2",
   "sources": {
     "binance": {
@@ -22,31 +22,31 @@
       "result": {
         "mvrv": {
           "ok": true,
-          "sha256": "df7e82875466c2cad38b45d9259330f7e8e68629570106b4da1fa054fb97352f"
+          "sha256": "8a9ebeafae85dcf9b7d245ef60a3ffbdc7219320221114878932afcc41c0a03f"
         },
         "sopr": {
           "ok": true,
-          "sha256": "678c1f8ee15cc501c4c52932bfba23efdf6cf484107999cf069d03f5f184b1a8"
+          "sha256": "7a8ec08ae3c0fe025085cb59d9754a47b8d93b2f3ed43f00aee795c1dcc5a4e9"
         },
         "sth-lth-sopr": {
           "ok": true,
-          "sha256": "7948c50857170152bb7872a667ebea16c235621eb9d26df93c9f5f0de4629b90"
+          "sha256": "0167edf6fe1ebc65fbf6854e09311034379259b49f696f71caa0b789ee11f5cf"
         },
         "nupl": {
           "ok": true,
-          "sha256": "8c48cef714ef0769916f1e1cab11a2f2b0b779968ba5daeba2908734d1f0a275"
+          "sha256": "fcc130a4979adb5aff40b9072f7cea74a365f597bca7eb13d3bc5e5d34040c81"
         },
         "exchange-netflow": {
           "ok": true,
-          "sha256": "52ee3848ca82ed9efab5aa9f37570ab70d383757615534b830130991e67260c5"
+          "sha256": "536314109a8de6787386970e175ea3ebfeba885e5b5d45006da6db1162df43e0"
         },
         "exchange-reserve": {
           "ok": true,
-          "sha256": "a0db9824b1a95c2933156e4f1a42d3d9db7483c1ecf014849ab698af19f724db"
+          "sha256": "822e200e7b6bdfff796ddf60e342db4053c2c7e4f80e25edecf3ec44569cbfd5"
         },
         "fund-flows": {
           "ok": true,
-          "sha256": "afceb8cb84fb97bf47b58795530e748fab05ef0253af15e0bd82f9569167bda0"
+          "sha256": "38019ef591ac72a6b0f7d28e7981836cf4341be16cc0f211177ca9e51428cd8c"
         },
         "etf-flows": {
           "ok": true,
@@ -62,7 +62,7 @@
         },
         "dxy-vs-btc": {
           "ok": true,
-          "sha256": "0fea8a51894cd2b3ecd8297e31f9832d494b982b9f03af9f0b2fe0e99a4e83fc"
+          "sha256": "617d51b6b8cd39a51137ed70419bc87761fc2b4bb0aceffaa8e837ad414a2572"
         }
       }
     }

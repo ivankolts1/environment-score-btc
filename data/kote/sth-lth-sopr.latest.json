@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "asOf": "2026-11-21",
+    "asOf": "2026-11-22",
     "chart": "sth-lth-sopr",
     "range": {
       "from": null,
@@ -39163,11 +39163,17 @@
         "usd": 61893.71,
         "lthSopr": 0.6419,
         "sthSopr": 0.9811
+      },
+      {
+        "t": "2026-11-21",
+        "usd": 58786.67,
+        "lthSopr": 0.7759,
+        "sthSopr": 0.9872
       }
     ],
     "source": "public BTC/USD daily close",
     "marketStart": "2010-08-18",
-    "completeThrough": "2026-11-20",
+    "completeThrough": "2026-11-21",
     "granularity": "day",
     "sourceGranularity": "day",
     "availableGranularities": [
