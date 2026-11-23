@@ -9,23 +9,23 @@
       "5m",
       "day"
     ],
-    "completeThrough": "2026-11-21",
-    "completeThroughTimestamp": "2026-11-23T00:40:00.000Z",
-    "asOf": "2026-11-23T00:44:05.000Z",
+    "completeThrough": "2026-11-22",
+    "completeThroughTimestamp": "2026-11-23T04:55:00.000Z",
+    "asOf": "2026-11-23T04:57:02.000Z",
     "range": {
       "from": "2009-01-03",
       "to": "2026-11-23"
     },
     "watermark": {
-      "lastBlockHeight": 977127,
-      "lastBlockHash": "00000000000000000000201a915c332a09318405e8e0fdad0887ed9d4b6aafec",
-      "lastTimestamp": 1795394645
+      "lastBlockHeight": 977150,
+      "lastBlockHash": "000000000000000000006248c06f87757ef657f997ba70cd79ac72f718ef9c12",
+      "lastTimestamp": 1795409822
     },
-    "builtAt": "2026-11-23T00:45:12.888Z",
+    "builtAt": "2026-11-23T04:57:51.221Z",
     "stale": false,
     "price": {
       "degraded": false,
-      "through": "2026-11-23T00:40:00.000Z"
+      "through": "2026-11-23T04:55:00.000Z"
     },
     "partialAvailable": true,
     "includesPartial": true,
@@ -58777,7 +58777,6 @@
         "t": "2026-11-22",
         "usd": 61322.8,
         "priceQuality": "composite",
-        "partial": true,
         "exInBtc": 17442.74572536001,
         "exOutBtc": 14794.201534640006,
         "exNetBtc": 2648.5441907200056,
@@ -58785,37 +58784,37 @@
       },
       {
         "t": "2026-11-23",
-        "usd": 61095.2,
+        "usd": 61238.37,
         "priceQuality": "composite",
         "partial": true,
-        "exInBtc": 17980.713924180018,
-        "exOutBtc": 15415.624371080003,
-        "exNetBtc": 2565.089553100015,
-        "exNetCumBtc": 3286862.460345419,
+        "exInBtc": 18824.93943914001,
+        "exOutBtc": 17782.21527177,
+        "exNetBtc": 1042.7241673700082,
+        "exNetCumBtc": 3286076.991087678,
         "partialMethod": "trailing24h",
         "estimated": false,
-        "coverage": 0.0306,
-        "asOf": "2026-11-23T00:44:05.000Z",
-        "windowStart": "2026-11-22T00:45:00.000Z",
-        "windowEnd": "2026-11-23T00:45:00.000Z"
+        "coverage": 0.2063,
+        "asOf": "2026-11-23T04:57:02.000Z",
+        "windowStart": "2026-11-22T05:00:00.000Z",
+        "windowEnd": "2026-11-23T05:00:00.000Z"
       }
     ],
     "latest": {
       "t": "2026-11-23",
-      "usd": 61095.2,
+      "usd": 61238.37,
       "priceQuality": "composite",
       "priceSources": 3,
       "partial": true,
-      "exInBtc": 17980.713924180018,
-      "exOutBtc": 15415.624371080003,
-      "exNetBtc": 2565.089553100015,
-      "exNetCumBtc": 3286862.460345419,
+      "exInBtc": 18824.93943914001,
+      "exOutBtc": 17782.21527177,
+      "exNetBtc": 1042.7241673700082,
+      "exNetCumBtc": 3286076.991087678,
       "partialMethod": "trailing24h",
       "estimated": false,
-      "coverage": 0.0306,
-      "asOf": "2026-11-23T00:44:05.000Z",
-      "windowStart": "2026-11-22T00:45:00.000Z",
-      "windowEnd": "2026-11-23T00:45:00.000Z"
+      "coverage": 0.2063,
+      "asOf": "2026-11-23T04:57:02.000Z",
+      "windowStart": "2026-11-22T05:00:00.000Z",
+      "windowEnd": "2026-11-23T05:00:00.000Z"
     },
     "meta": {
       "enabled": true,
@@ -58824,7 +58823,7 @@
       "entitySnapshot": {
         "generation": "20260730T085740197Z-78c7c5524342",
         "fingerprint": "sha256:5cc1cc77977d79ec81b6ffd11bdd475e75520982078b8a8d05effe8ea8418e41",
-        "generatedAt": "2026-11-23T00:45:12.888Z",
+        "generatedAt": "2026-11-23T04:57:51.221Z",
         "addresses": {}
       }
     },
@@ -58845,10 +58844,10 @@
       "t": "2026-11-23",
       "method": "trailing24h",
       "estimated": false,
-      "coverage": 0.0306,
-      "asOf": "2026-11-23T00:44:05.000Z",
-      "windowStart": "2026-11-22T00:45:00.000Z",
-      "windowEnd": "2026-11-23T00:45:00.000Z"
+      "coverage": 0.2063,
+      "asOf": "2026-11-23T04:57:02.000Z",
+      "windowStart": "2026-11-22T05:00:00.000Z",
+      "windowEnd": "2026-11-23T05:00:00.000Z"
     },
     "pageUrl": "https://kotecharts.com/c/exchange-netflow",
     "cite": "Kote Charts — \"Exchange netflow\", https://kotecharts.com/c/exchange-netflow",

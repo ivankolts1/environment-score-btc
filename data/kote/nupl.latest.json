@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "asOf": "2026-11-22",
+    "asOf": "2026-11-23",
     "chart": "nupl",
     "range": {
       "from": null,
@@ -29707,11 +29707,16 @@
         "t": "2026-11-21",
         "usd": 58786.67,
         "nupl": 0.0934
+      },
+      {
+        "t": "2026-11-22",
+        "usd": 60088.31,
+        "nupl": 0.1131
       }
     ],
     "source": "public BTC/USD daily close",
     "marketStart": "2010-08-18",
-    "completeThrough": "2026-11-21",
+    "completeThrough": "2026-11-22",
     "granularity": "day",
     "sourceGranularity": "day",
     "availableGranularities": [
