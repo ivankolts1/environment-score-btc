@@ -10,22 +10,22 @@
       "day"
     ],
     "completeThrough": "2026-11-22",
-    "completeThroughTimestamp": "2026-11-23T09:05:00.000Z",
-    "asOf": "2026-11-23T09:08:58.000Z",
+    "completeThroughTimestamp": "2026-11-23T12:30:00.000Z",
+    "asOf": "2026-11-23T12:34:19.000Z",
     "range": {
       "from": "2009-01-03",
       "to": "2026-11-23"
     },
     "watermark": {
-      "lastBlockHeight": 977176,
-      "lastBlockHash": "000000000000000000008c1beea6f0311e20df2d451af5b95c8566243d9d31ea",
-      "lastTimestamp": 1795424938
+      "lastBlockHeight": 977203,
+      "lastBlockHash": "000000000000000000020aa7e7a6f2f1bc90d8783f2207c91f299a6e352958d7",
+      "lastTimestamp": 1795437259
     },
-    "builtAt": "2026-11-23T09:09:47.764Z",
+    "builtAt": "2026-11-23T12:35:08.106Z",
     "stale": false,
     "price": {
       "degraded": false,
-      "through": "2026-11-23T09:05:00.000Z"
+      "through": "2026-11-23T12:30:00.000Z"
     },
     "partialAvailable": true,
     "includesPartial": true,
@@ -58784,37 +58784,37 @@
       },
       {
         "t": "2026-11-23",
-        "usd": 61540.8,
+        "usd": 61355.43,
         "priceQuality": "composite",
         "partial": true,
-        "fundInBtc": 1425.4182657600002,
-        "fundOutBtc": 3187.3340716499997,
-        "fundNetBtc": -1761.9158058899995,
-        "fundReserveBtc": 1869128.78602961,
+        "fundInBtc": 1148.1393445899998,
+        "fundOutBtc": 13735.396124530003,
+        "fundNetBtc": -12587.256779940004,
+        "fundReserveBtc": 1858453.1466792,
         "partialMethod": "trailing24h",
         "estimated": false,
-        "coverage": 0.3812,
-        "asOf": "2026-11-23T09:08:58.000Z",
-        "windowStart": "2026-11-22T09:10:00.000Z",
-        "windowEnd": "2026-11-23T09:10:00.000Z"
+        "coverage": 0.5238,
+        "asOf": "2026-11-23T12:34:19.000Z",
+        "windowStart": "2026-11-22T12:35:00.000Z",
+        "windowEnd": "2026-11-23T12:35:00.000Z"
       }
     ],
     "latest": {
       "t": "2026-11-23",
-      "usd": 61540.8,
+      "usd": 61355.43,
       "priceQuality": "composite",
       "priceSources": 3,
       "partial": true,
-      "fundInBtc": 1425.4182657600002,
-      "fundOutBtc": 3187.3340716499997,
-      "fundNetBtc": -1761.9158058899995,
-      "fundReserveBtc": 1869128.78602961,
+      "fundInBtc": 1148.1393445899998,
+      "fundOutBtc": 13735.396124530003,
+      "fundNetBtc": -12587.256779940004,
+      "fundReserveBtc": 1858453.1466792,
       "partialMethod": "trailing24h",
       "estimated": false,
-      "coverage": 0.3812,
-      "asOf": "2026-11-23T09:08:58.000Z",
-      "windowStart": "2026-11-22T09:10:00.000Z",
-      "windowEnd": "2026-11-23T09:10:00.000Z"
+      "coverage": 0.5238,
+      "asOf": "2026-11-23T12:34:19.000Z",
+      "windowStart": "2026-11-22T12:35:00.000Z",
+      "windowEnd": "2026-11-23T12:35:00.000Z"
     },
     "meta": {
       "enabled": true,
@@ -58823,7 +58823,7 @@
       "entitySnapshot": {
         "generation": "20260730T085740197Z-78c7c5524342",
         "fingerprint": "sha256:5cc1cc77977d79ec81b6ffd11bdd475e75520982078b8a8d05effe8ea8418e41",
-        "generatedAt": "2026-11-23T09:09:47.764Z",
+        "generatedAt": "2026-11-23T12:35:08.106Z",
         "addresses": {}
       }
     },
@@ -58831,10 +58831,10 @@
       "t": "2026-11-23",
       "method": "trailing24h",
       "estimated": false,
-      "coverage": 0.3812,
-      "asOf": "2026-11-23T09:08:58.000Z",
-      "windowStart": "2026-11-22T09:10:00.000Z",
-      "windowEnd": "2026-11-23T09:10:00.000Z"
+      "coverage": 0.5238,
+      "asOf": "2026-11-23T12:34:19.000Z",
+      "windowStart": "2026-11-22T12:35:00.000Z",
+      "windowEnd": "2026-11-23T12:35:00.000Z"
     },
     "pageUrl": "https://kotecharts.com/c/fund-flows",
     "cite": "Kote Charts — \"Fund & custody flows\", https://kotecharts.com/c/fund-flows",
